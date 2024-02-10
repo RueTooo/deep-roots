@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox|right]
+> [!infobox|bottom]
 > # Aerendyl
 > ![Aerendyl_ 1.png|cover hsmall](/img/user/Images/Aerendyl_%201.png)
 > 
