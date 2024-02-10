@@ -42,7 +42,7 @@ In their first direct conversation, she learned that [[Entities/Titans/Hallow\|H
 ## Peculiarities
 Mirri is being followed by an "invisible stalker." Several times in the past fifty years, there have been unexplained winds caused by some unseen force. 
 > [!warning]- Spoiler
-> Because Mirri was unable to attend [[Entities/NPCs/Paelias\|Paelias]]'s funeral, his spirit wasn't properly sent off. He has very little power, existing between life and death, and is only able to affect things rarely, using most of his energy just continuing to exist.
+> xxxxx
 ## Current Goals
 Kill [[Entities/NPCs/Vestan Tlanbourn\|Vestan Tlanbourn]]
 ## Inventory
