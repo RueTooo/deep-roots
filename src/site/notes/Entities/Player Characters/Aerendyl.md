@@ -18,7 +18,7 @@
 > 
 > Pronouns|Age|Place of Origin| 
 > ---|---|---|
-> he/him|54|`=this.Origin`|
+> he/him|54|[[Locations/Earth plane (elemental)/Sandfall City\|Sandfall City]]|
 > 
 > Groups & Affiliations|
 > ---|
