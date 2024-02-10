@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/this-is-my-home-page/","tags":["gardenEntry"]}
 ---
 
-It even has some text!!
+**Home Page**
 
 - [[Entities/Player Characters/Aerendyl\|Aerendyl]]
 - [[Entities/Player Characters/Corvaux\|Corvaux]]
