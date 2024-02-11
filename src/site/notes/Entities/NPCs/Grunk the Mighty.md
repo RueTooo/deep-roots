@@ -29,6 +29,7 @@
 
 ## Description
 A lizardfolk duskwarden druid from the [[Arkehost Oasis\|Arkehost Oasis]], Grunk is direct, blunt, and very dedicated to keeping his charges safe.  He wears the skull of a drake as a helm, and is well versed in herbalism and desert skills.
+Hired by Aeren and [[Entities/Player Characters/Corvaux\|Corvaux]] 
 ## Location
 [[Arkehost Oasis\|Arkehost Oasis]]
 ## Abilities 
