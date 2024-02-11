@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entities/np-cs/asha-skysong/","tags":["Creature","NPC"]}
+{"dg-publish":true,"permalink":"/entities/np-cs/asha-skysong/","tags":["Creature","NPC","DigTeam"]}
 ---
 
 
