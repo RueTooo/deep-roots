@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/entities/np-cs/grunk-the-mighty/","tags":["Creature","NPC"]}
+{"dg-publish":true,"permalink":"/entities/np-cs/grunk-the-mighty/","tags":["Creature","NPC","DigTeam"]}
 ---
 
 
 > [!infobox|right]
 > # Grunk the Mighty
-> ![Character Image Placeholder.jpeg|cover hsmall](/img/user/Images/Character%20Image%20Placeholder.jpeg)
+> ![Grunk.jpg|cover hsmall](/img/user/Images/Grunk.jpg)
 > 
 > Race | Subrace |
 > ---|---|
