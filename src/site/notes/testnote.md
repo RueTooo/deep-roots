@@ -36,7 +36,7 @@ Add more columns
 > ![runa.png](/img/user/Images/runa.png)
 > ![luck_of_the_draw.png](/img/user/Images/luck_of_the_draw.png)
 > ![Mirri.png](/img/user/Images/Mirri.png)
-> ![[Aerendyl_.png\|Aerendyl_.png]]
+> ![Aerendyl_.png](/img/user/Images/Aerendyl_.png)
 
 > [!recite]
 > Hello there
