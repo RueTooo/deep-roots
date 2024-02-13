@@ -11,36 +11,38 @@ Add more columns
 > [!cards|4]
 > **[[Locations/Earth plane (elemental)/Earth Plane\|Earth Plane]]**
 > ![earth_plane.jpg|sban htiny ctr](/img/user/Images/earth_plane.jpg)
-> **[[Locations/Earth plane (elemental)/Earth Plane\|Earth Plane]]**
-> ![earth_plane.jpg|sban htiny ctr](/img/user/Images/earth_plane.jpg)
-> **[[Locations/Earth plane (elemental)/Earth Plane\|Earth Plane]]**
-> ![earth_plane.jpg|sban htiny ctr](/img/user/Images/earth_plane.jpg)
+> **[[Material Plane\|Material Plane]]**
+> ![rakauvi_map.jpeg|sban htiny ctr](/img/user/Images/rakauvi_map.jpeg)
+> **[[Locations/Feywild/Feywild\|Feywild]]**
+> ![Feywild.jpg|sban htiny ctr](/img/user/Images/Feywild.jpg)
 
 > [!cards|dataview]
->  | Image                                   | Column Name                                                                                     |
-> | --------------------------------------- | ----------------------------------------------------------------------------------------------- |
-> | ![[earth_plane.jpg\|sban cover hmicro]] | **[[Locations/Abyss/Wells of Darkness\|Wells of Darkness]]**                                 |
-> | ![[earth_plane.jpg\|sban cover hmicro]] | **[[Locations/Earth plane (elemental)/Sandfall City\|Sandfall City]]**                       |
-> | ![[earth_plane.jpg\|sban cover hmicro]] | **[[Locations/Earth plane (elemental)/Earth Plane\|Earth Plane]]**                           |
-> | ![[earth_plane.jpg\|sban cover hmicro]] | **[[Locations/Feywild/Feywild\|Feywild]]**                                                   |
-> | ![[earth_plane.jpg\|sban cover hmicro]] | **[[Locations/Prime Material Plane, Rakauvi/Rakauvi\|Rakauvi]]**                             |
-> | ![[earth_plane.jpg\|sban cover hmicro]] | **[[Locations/Prime Material Plane, Rakauvi/Sylvari/Court of Aetheria\|Court of Aetheria]]** |
-> | ![[earth_plane.jpg\|sban cover hmicro]] | **[[Locations/Prime Material Plane, Rakauvi/Sylvari/Ironwood Citadel\|Ironwood Citadel]]**   |
-> | ![[earth_plane.jpg\|sban cover hmicro]] | **[[Locations/Prime Material Plane, Rakauvi/Sylvari/Sablehaven\|Sablehaven]]**               |
-> | ![[earth_plane.jpg\|sban cover hmicro]] | **[[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]]**                     |
-> | ![[earth_plane.jpg\|sban cover hmicro]] | **[[Locations/Prime Material Plane, Rakauvi/Yewdon/Yewdon\|Yewdon]]**                        |
+>  | Column Name                                                              |
+> | ------------------------------------------------------------------------ |
+> | **[[Entities/Player Characters/Runa\|Runa]]**                         |
+> | **[[Entities/Player Characters/Mirri\|Mirri]]**                       |
+> | **[[Entities/Player Characters/Corvaux\|Corvaux]]**                   |
+> | **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**                 |
+> | **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]** |
 > 
 { .block-language-dataview}
+
+> [!cards]
+> 
+
+
+
 
 > [!grid]
 > ![runa.png](/img/user/Images/runa.png)
 > ![luck_of_the_draw.png](/img/user/Images/luck_of_the_draw.png)
 > ![Mirri.png](/img/user/Images/Mirri.png)
 > ![Aerendyl_.png](/img/user/Images/Aerendyl_.png)
+> ![corvaux.png](/img/user/Images/corvaux.png)
 
 > [!recite]
 > Hello there
 
-> [!aside]
+> [!aside]-
 > what's this?
 > 
