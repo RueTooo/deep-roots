@@ -27,8 +27,6 @@ Add more columns
 > 
 { .block-language-dataview}
 
-> [!cards]
-> 
 
 > [!infobox]
 > # Name
@@ -49,8 +47,8 @@ Add more columns
 > [!grid]
 > ![runa.png](/img/user/Images/runa.png)
 > ![luck_of_the_draw.png](/img/user/Images/luck_of_the_draw.png)
-> ![[Mirri.png\|Mirri.png]]
-> ![[Aerendyl_.png\|Aerendyl_.png]]
+> ![Mirri.png](/img/user/Images/Mirri.png)
+> ![Aerendyl_.png](/img/user/Images/Aerendyl_.png)
 > ![corvaux.png](/img/user/Images/corvaux.png)
 
 > [!recite|no-t]
@@ -71,7 +69,10 @@ Add more columns
 > [!quote] Quote Author Here <br>New Line stuff here
 > Blockquote text here
 
-![runa.png|sban cover hs-med|200](/img/user/Images/runa.png)
+
+![runa.png|banner](/img/user/Images/runa.png)
+![runa.png|banner+small](/img/user/Images/runa.png)
+![runa.png|banner+tall](/img/user/Images/runa.png)
 
 > [!callout-type|adjustment adjustment2]
 
