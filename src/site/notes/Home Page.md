@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
 ---
 
-![zephyrqu_ten_thousand_eyes_embedded_in_a_wall_made_of_obsidian__bfdc69ef-3c9d-4363-9b81-1ffa1fc44a5c.png|banner](/img/user/Images/zephyrqu_ten_thousand_eyes_embedded_in_a_wall_made_of_obsidian__bfdc69ef-3c9d-4363-9b81-1ffa1fc44a5c.png)
+![zephyrqu_ten_thousand_eyes_embedded_in_a_wall_made_of_obsidian__bfdc69ef-3c9d-4363-9b81-1ffa1fc44a5c.png|banner+small](/img/user/Images/zephyrqu_ten_thousand_eyes_embedded_in_a_wall_made_of_obsidian__bfdc69ef-3c9d-4363-9b81-1ffa1fc44a5c.png)
 **Player Characters**
 > [!cards|5]
 > 
