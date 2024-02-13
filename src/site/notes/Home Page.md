@@ -2,21 +2,28 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
 ---
 
+![zephyrqu_ten_thousand_eyes_embedded_in_a_wall_made_of_obsidian__bfdc69ef-3c9d-4363-9b81-1ffa1fc44a5c.png|banner](/img/user/Images/zephyrqu_ten_thousand_eyes_embedded_in_a_wall_made_of_obsidian__bfdc69ef-3c9d-4363-9b81-1ffa1fc44a5c.png)
 **Player Characters**
-
-- [[Entities/Player Characters/Runa\|Runa]]
-- [[Entities/Player Characters/Thaddeus Quill\|Thaddeus Quill]]
-- [[Entities/Player Characters/Mirri\|Mirri]]
-- [[Entities/Player Characters/Corvaux\|Corvaux]]
-- [[Entities/Player Characters/Aerendyl\|Aerendyl]]
-- [[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]
-
-{ .block-language-dataview}
+> [!cards|5]
+> 
+> **[[Entities/Player Characters/Mirri\|Mirri]]**
+> ![Mirri card.png](/img/user/Images/Mirri%20card.png)
+> 
+> **[[Entities/Player Characters/Runa\|Runa]]**
+> ![Runa1 card.png](/img/user/Images/Runa1%20card.png)
+> 
+> **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**
+> ![Aerendyl_ card.png](/img/user/Images/Aerendyl_%20card.png)
+> 
+> **[[Entities/Player Characters/Corvaux\|Corvaux]]**
+> ![Corvaux1 card.png](/img/user/Images/Corvaux1%20card.png)
+> 
+> **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]**
+> ![luck_of_the_draw.png](/img/user/Images/luck_of_the_draw.png)
 
 **Campaign Chronicles**
 
 - [[Campaign Chronicles/Rediscovered Temple of Five\|Rediscovered Temple of Five]]
 
 { .block-language-dataview}
-
 
