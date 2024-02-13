@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
 ---
 
-![banner.png|banner+small](/img/user/Images/banner.png)
+![banner.png|banner](/img/user/Images/banner.png)
 **Player Characters**
 > [!cards|5]
 > 
@@ -21,10 +21,7 @@
 > **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]**
 > ![luck_of_the_draw.png](/img/user/Images/luck_of_the_draw.png)
 
-
-
-
-
+![[Main Canvas.canvas|Main Canvas]]
 
  - [[Entities/Titans/Thousand-Eyed Deceiver\|Thousand-Eyed Deceiver]]
 - [[Entities/Titans/Orchus\|Orchus]]
