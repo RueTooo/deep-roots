@@ -16,15 +16,15 @@
 - [[Entities/NPCs/Eldanor Nightbloom\|Eldanor Nightbloom]]
 - [[Entities/NPCs/Professor Ssimmia Hakani\|Professor Ssimmia Hakani]]
 - [[Entities/NPCs/Tarnak Swiftclaw\|Tarnak Swiftclaw]]
-- [[Entities/NPCs/Kutha Novis\|Kutha Novis]]
 - [[Entities/NPCs/Kazimere Flintfall\|Kazimere Flintfall]]
 - [[Entities/NPCs/Huli Cedarwind\|Huli Cedarwind]]
+- [[Entities/NPCs/Kutha Novis\|Kutha Novis]]
 - [[Entities/NPCs/Asha Skysong\|Asha Skysong]]
 - [[Entities/NPCs/Ssslannith the Flametouched\|Ssslannith the Flametouched]]
 - [[Entities/NPCs/Grunk the Mighty\|Grunk the Mighty]]
-- [[Entities/NPCs/Eewana\|Eewana]]
 - [[Entities/NPCs/Haralphus\|Haralphus]]
 - [[Entities/NPCs/Xandri Khalkos\|Xandri Khalkos]]
+- [[Entities/NPCs/Eewana\|Eewana]]
 
 { .block-language-dataview}
 ## Description
