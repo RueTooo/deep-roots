@@ -32,3 +32,8 @@
 - [[Entities/Titans/Da'yin Kuya of Infinite Facets\|Da'yin Kuya of Infinite Facets]]
 
 { .block-language-dataview}
+
+> [!info]
+>  - [[Campaign Chronicles/Rediscovered Temple of Five\|Rediscovered Temple of Five]]
+> 
+{ .block-language-dataview}
