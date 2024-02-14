@@ -80,5 +80,17 @@ Add more columns
 > [!kanban|no-title txt-c]
 > [!caption|left]
 
+ - [[Entities/Titans/Thousand-Eyed Deceiver\|Thousand-Eyed Deceiver]]
+- [[Entities/Titans/Orchus\|Orchus]]
+- [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
+- [[Entities/Titans/Hallow\|Hallow]]
+- [[Entities/Titans/Da'yin Kuya of Infinite Facets\|Da'yin Kuya of Infinite Facets]]
 
+{ .block-language-dataview}
+
+
+> [!info]
+>  - [[Campaign Chronicles/Rediscovered Temple of Five\|Rediscovered Temple of Five]]
+> 
+{ .block-language-dataview}
 
