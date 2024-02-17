@@ -5,7 +5,7 @@
 
 > [!infobox|right]
 > # Haralphus
-> ![zephyrqu_httpss.mj.runFiwgpH-mMjw_httpss.mj.run_mmGYrX-GLE_http_29b14ea0-8e4d-404c-a4ad-2709716192f6.png|cover hsmall](/img/user/Images/zephyrqu_httpss.mj.runFiwgpH-mMjw_httpss.mj.run_mmGYrX-GLE_http_29b14ea0-8e4d-404c-a4ad-2709716192f6.png)
+> ![zephyrqu_httpss.mj.runFiwgpH-mMjw_httpss.mj.run_mmGYrX-GLE_http_29b14ea0-8e4d-404c-a4ad-2709716192f6.png|cover hsmall](/img/user/Images/Creatures/zephyrqu_httpss.mj.runFiwgpH-mMjw_httpss.mj.run_mmGYrX-GLE_http_29b14ea0-8e4d-404c-a4ad-2709716192f6.png)
 > 
 > Race | Subrace |
 > ---|---|
