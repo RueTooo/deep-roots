@@ -5,7 +5,7 @@
 
 > [!infobox|right]
 > # Tarnak Swiftclaw
-> ![zephyrqu_Tabaxi_lion_magnificent_mane_metalic_brocade_robe_blue_95d41adb-bc36-4c7a-86e2-4572bd1b5e9f.png|cover hsmall](/img/user/Images/zephyrqu_Tabaxi_lion_magnificent_mane_metalic_brocade_robe_blue_95d41adb-bc36-4c7a-86e2-4572bd1b5e9f.png)
+> ![zephyrqu_Tabaxi_lion_magnificent_mane_metalic_brocade_robe_blue_95d41adb-bc36-4c7a-86e2-4572bd1b5e9f.png|cover hsmall](/img/user/Images/Creatures/zephyrqu_Tabaxi_lion_magnificent_mane_metalic_brocade_robe_blue_95d41adb-bc36-4c7a-86e2-4572bd1b5e9f.png)
 > 
 > Race | Subrace |
 > ---|---|
