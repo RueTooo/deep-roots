@@ -5,7 +5,7 @@
 
 > [!infobox|right]
 > # Kutha Novis
-> ![zephyrqu_Tabaxi_lion_Prince_--niji_5_ad8cd93f-b93c-4758-9ae8-4cd285541845.png|cover hsmall](/img/user/Images/zephyrqu_Tabaxi_lion_Prince_--niji_5_ad8cd93f-b93c-4758-9ae8-4cd285541845.png)
+> ![zephyrqu_Tabaxi_lion_Prince_--niji_5_ad8cd93f-b93c-4758-9ae8-4cd285541845.png|cover hsmall](/img/user/Images/Creatures/zephyrqu_Tabaxi_lion_Prince_--niji_5_ad8cd93f-b93c-4758-9ae8-4cd285541845.png)
 > 
 > Race | Subrace |
 > ---|---|
