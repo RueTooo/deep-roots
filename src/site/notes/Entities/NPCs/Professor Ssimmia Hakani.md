@@ -5,7 +5,7 @@
 
 > [!infobox|right]
 > # Professor Ssimmia Hakani
-> ![zephyrqu_afropunk_she_has_scaled_skin_blue_robe_72461c9f-ac90-4e4a-9e96-c926a9792db5.png|cover hsmall](/img/user/Images/zephyrqu_afropunk_she_has_scaled_skin_blue_robe_72461c9f-ac90-4e4a-9e96-c926a9792db5.png)
+> ![zephyrqu_afropunk_she_has_scaled_skin_blue_robe_72461c9f-ac90-4e4a-9e96-c926a9792db5.png|cover hsmall](/img/user/Images/Creatures/zephyrqu_afropunk_she_has_scaled_skin_blue_robe_72461c9f-ac90-4e4a-9e96-c926a9792db5.png)
 > 
 > Race | Subrace |
 > ---|---|
