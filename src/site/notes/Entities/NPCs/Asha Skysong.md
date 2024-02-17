@@ -5,7 +5,7 @@
 
 > [!infobox|right]
 > # Asha Skysong
-> ![zephyrqu_Tabaxi_Princess_--niji_5_0cfbebdf-8dd9-4e8b-ac57-226ebe20b9f3.png|cover hsmall](/img/user/Images/zephyrqu_Tabaxi_Princess_--niji_5_0cfbebdf-8dd9-4e8b-ac57-226ebe20b9f3.png)
+> ![zephyrqu_Tabaxi_Princess_--niji_5_0cfbebdf-8dd9-4e8b-ac57-226ebe20b9f3.png|cover hsmall](/img/user/Images/Creatures/zephyrqu_Tabaxi_Princess_--niji_5_0cfbebdf-8dd9-4e8b-ac57-226ebe20b9f3.png)
 > 
 > Race | Subrace |
 > ---|---|
