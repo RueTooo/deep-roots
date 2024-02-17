@@ -5,7 +5,7 @@
 
 > [!infobox|right]
 > # Huli Cedarwind
-> ![zephyrqu_Tabaxi_noble_Lady_--niji_5_5e312809-ecdc-45db-9589-79d215e55710.png|cover hsmall](/img/user/Images/zephyrqu_Tabaxi_noble_Lady_--niji_5_5e312809-ecdc-45db-9589-79d215e55710.png)
+> ![zephyrqu_Tabaxi_noble_Lady_--niji_5_5e312809-ecdc-45db-9589-79d215e55710.png|cover hsmall](/img/user/Images/Creatures/zephyrqu_Tabaxi_noble_Lady_--niji_5_5e312809-ecdc-45db-9589-79d215e55710.png)
 > 
 > Race | Subrace |
 > ---|---|
