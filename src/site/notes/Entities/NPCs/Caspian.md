@@ -5,7 +5,7 @@
 
 > [!infobox|right]
 > # Caspian
-> ![Caspian.png|cover hsmall](/img/user/Images/Caspian.png)
+> ![Caspian.png|cover hsmall](/img/user/Images/Creatures/Caspian.png)
 > 
 > Race | Subrace |
 > ---|---|
@@ -30,7 +30,7 @@
 ## Description
 Caspian, a construct acolyte of the [[Library of Unseen Horizons\|Library of Unseen Horizons]]. 
 
-Caspian appeared when [[Entities/Player Characters/Aerendyl\|Aerendyl]], [[Entities/Player Characters/Corvaux\|Corvaux]], and [[Entities/Player Characters/Retired/Thaddeus Quill\|Thaddeus]] (and [[Entities/NPCs/Grunk the Mighty\|Grunk]]!) completed the trial of entry. They are here to assist the new Seekers in finding the books and artifacts that they would like to study. They have an affinity with the material of the library, seeming to walk and reach through the solid walls as though they were air.
+Caspian appeared when [[Aerendyl\|Aerendyl]], [[Corvaux\|Corvaux]], and [[Entities/Player Characters/Retired/Thaddeus Quill\|Thaddeus]] (and [[Entities/NPCs/Grunk the Mighty\|Grunk]]!) completed the trial of entry. They are here to assist the new Seekers in finding the books and artifacts that they would like to study. They have an affinity with the material of the library, seeming to walk and reach through the solid walls as though they were air.
 ## Location
 [[Library of Unseen Horizons\|Library of Unseen Horizons]]
 ## Abilities 
