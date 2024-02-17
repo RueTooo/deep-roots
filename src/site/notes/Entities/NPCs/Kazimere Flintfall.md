@@ -5,7 +5,7 @@
 
 > [!infobox|right]
 > # Kazimere Flintfall
-> ![zephyrqu_simple_robe_opalized_monk_he_has_a_beard_light_silver__ea4411bf-057d-4689-b715-9482740e9a47.png|cover hsmall](/img/user/Images/zephyrqu_simple_robe_opalized_monk_he_has_a_beard_light_silver__ea4411bf-057d-4689-b715-9482740e9a47.png)
+> ![zephyrqu_simple_robe_opalized_monk_he_has_a_beard_light_silver__ea4411bf-057d-4689-b715-9482740e9a47.png|cover hsmall](/img/user/Images/Creatures/zephyrqu_simple_robe_opalized_monk_he_has_a_beard_light_silver__ea4411bf-057d-4689-b715-9482740e9a47.png)
 > 
 > Race | Subrace |
 > ---|---|
