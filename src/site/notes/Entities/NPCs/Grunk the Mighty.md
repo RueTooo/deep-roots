@@ -5,7 +5,7 @@
 
 > [!infobox|right]
 > # Grunk the Mighty
-> ![Grunk.jpg|cover hsmall](/img/user/Images/Grunk.jpg)
+> ![Grunk.jpg|cover hsmall](/img/user/Images/Creatures/Grunk.jpg)
 > 
 > Race | Subrace |
 > ---|---|
@@ -29,7 +29,7 @@
 
 ## Description
 A lizardfolk duskwarden druid from the [[Arkehost Oasis\|Arkehost Oasis]], Grunk is direct, blunt, and very dedicated to keeping his charges safe.  He wears the skull of a drake as a helm, and is well versed in herbalism and desert skills.
-Hired by Aeren and [[Entities/Player Characters/Corvaux\|Corvaux]] 
+Hired by Aeren and [[Corvaux\|Corvaux]] 
 ## Location
 [[Arkehost Oasis\|Arkehost Oasis]]
 ## Abilities 
