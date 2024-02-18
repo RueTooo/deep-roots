@@ -6,19 +6,19 @@
 **Player Characters**
 > [!cards|5]
 > 
-> **[[Mirri\|Mirri]]**
+> **[[Entities/Player Characters/Mirri\|Mirri]]**
 > ![[Mirri card.png\|Mirri card.png]]
 > 
-> **[[Runa\|Runa]]**
+> **[[Entities/Player Characters/Runa\|Runa]]**
 > ![[Runa1 card.png\|Runa1 card.png]]
 > 
 > **[[Aerendyl\|Aerendyl]]**
 > ![[Aerendyl_ card.png\|Aerendyl_ card.png]]
 > 
-> **[[Corvaux\|Corvaux]]**
+> **[[Entities/Player Characters/Corvaux\|Corvaux]]**
 > ![[Corvaux1 card.png\|Corvaux1 card.png]]
 > 
-> **[[Luck of the Draw\|Luck of the Draw]]**
+> **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]**
 > ![luck_of_the_draw.png](/img/user/Images/Creatures/luck_of_the_draw.png)
 
 ![[Main Canvas.canvas\|Main Canvas]]
