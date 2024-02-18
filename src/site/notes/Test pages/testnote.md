@@ -17,13 +17,8 @@ Add more columns
 > ![Feywild.jpg|sban htiny ctr](/img/user/Images/Maps/Feywild.jpg)
 
 > [!cards|dataview]
->  | Column Name                                                              |
-> | ------------------------------------------------------------------------ |
-> | **[[Entities/Player Characters/Runa\|Runa]]**                         |
-> | **[[Entities/Player Characters/Mirri\|Mirri]]**                       |
-> | **[[Entities/Player Characters/Corvaux\|Corvaux]]**                   |
-> | **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**                 |
-> | **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]** |
+>  | Column Name |
+> | ----------- |
 > 
 { .block-language-dataview}
 
@@ -92,8 +87,8 @@ Add more columns
 - [[Entities/Titans/Autumn Court/Archfey/Fitzroya\|Fitzroya]]
 - [[Entities/Titans/Autumn Court/Archfey/Adansonia\|Adansonia]]
 - [[Entities/Titans/Autumn Court/Archfey/Calyptica\|Calyptica]]
-- [[Entities/Titans/Hallow\|Hallow]]
 - [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
+- [[Entities/Titans/Hallow\|Hallow]]
 - [[Entities/Titans/Demons/Thousand-Eyed Deceiver\|Thousand-Eyed Deceiver]]
 - [[Entities/Titans/Demons/Orchus\|Orchus]]
 - [[Entities/Titans/Da'yin Kuya of Infinite Facets\|Da'yin Kuya of Infinite Facets]]
