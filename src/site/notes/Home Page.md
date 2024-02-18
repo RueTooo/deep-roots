@@ -7,21 +7,21 @@
 > [!cards|5]
 > 
 > **[[Entities/Player Characters/Mirri\|Mirri]]**
-> ![[Mirri card.png\|Mirri card.png]]
+> ![Mirri card.png](/img/user/Images/Creatures/Mirri%20card.png)
 > 
 > **[[Entities/Player Characters/Runa\|Runa]]**
-> ![[Runa1 card.png\|Runa1 card.png]]
+> ![Runa1 card.png](/img/user/Images/Creatures/Runa1%20card.png)
 > 
-> **[[Aerendyl\|Aerendyl]]**
-> ![[Aerendyl_ card.png\|Aerendyl_ card.png]]
+> **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**
+> ![Aerendyl_ card.png](/img/user/Images/Creatures/Aerendyl_%20card.png)
 > 
 > **[[Entities/Player Characters/Corvaux\|Corvaux]]**
-> ![[Corvaux1 card.png\|Corvaux1 card.png]]
+> ![Corvaux1 card.png](/img/user/Images/Creatures/Corvaux1%20card.png)
 > 
 > **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]**
 > ![luck_of_the_draw.png](/img/user/Images/Creatures/luck_of_the_draw.png)
 
-![[Main Canvas.canvas\|Main Canvas]]
+![[Main Canvas.canvas|Main Canvas]]
 
 **Big Players**
 > [!tip]
@@ -37,8 +37,8 @@
 > - [[Entities/Titans/Autumn Court/Archfey/Fitzroya\|Fitzroya]]
 > - [[Entities/Titans/Autumn Court/Archfey/Adansonia\|Adansonia]]
 > - [[Entities/Titans/Autumn Court/Archfey/Calyptica\|Calyptica]]
-> - [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
 > - [[Entities/Titans/Hallow\|Hallow]]
+> - [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
 > - [[Entities/Titans/Demons/Thousand-Eyed Deceiver\|Thousand-Eyed Deceiver]]
 > - [[Entities/Titans/Demons/Orchus\|Orchus]]
 > - [[Entities/Titans/Da'yin Kuya of Infinite Facets\|Da'yin Kuya of Infinite Facets]]
