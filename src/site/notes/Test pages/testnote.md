@@ -103,7 +103,7 @@ Add more columns
 
 [Link](/Users/rachelalworth/Library/Mobile Documents/com~apple~CloudDocs/my%20leaflet%20project/index.html)
 
-![Link|100](https://ruetooo.github.io/leaflet-map-simple/)
+
 
 <iframe src="https://ruetooo.github.io/leaflet-map-simple/"></iframe>
 
