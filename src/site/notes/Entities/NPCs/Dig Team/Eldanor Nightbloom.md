@@ -28,7 +28,7 @@
 # Eldanor Nightbloom
 
 ## Description
-An elven archaeologist, renowned for her expertise in deciphering obscure ancient texts. With her encyclopedic knowledge, she seeks to uncover and help restore the temple. She is from the [[Luxweaver Academy\|Luxweaver Academy]], in central [[Sylvari\|Sylvari]]
+An elven archaeologist, renowned for her expertise in deciphering obscure ancient texts. With her encyclopedic knowledge, she seeks to uncover and help restore the temple. She is from the [[Luxweaver Academy\|Luxweaver Academy]], in central [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]]
 ## Location
 `=this.location`
 ## History
