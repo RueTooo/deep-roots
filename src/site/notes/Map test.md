@@ -3,6 +3,4 @@
 ---
 
 
-Text
-
-<iframe src="https://ruetooo.github.io/leaflet-map-simple/"></iframe>
+<iframe src="https://ruetooo.github.io/leaflet-map-simple/" width=100% height="400"></iframe>
