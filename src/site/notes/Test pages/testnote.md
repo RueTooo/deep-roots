@@ -103,6 +103,6 @@ Add more columns
 
 [Link](/Users/rachelalworth/Library/Mobile Documents/com~apple~CloudDocs/my%20leaflet%20project/index.html)
 
-<iframe src="[https://photoprism.ajy.co/s/13icq91ne6/heart-of-darkness](https://photoprism.ajy.co/s/13icq91ne6/heart-of-darkness)" width="100%" height="800"></iframe>
+<iframe src="[https://ruetooo.github.io/leaflet-map-simple/](https://ruetooo.github.io/leaflet-map-simple/)" width="100%" height="800"></iframe>
 
 <div id="map"></div>
