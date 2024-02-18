@@ -14,11 +14,16 @@ Add more columns
 > **[[Material Plane\|Material Plane]]**
 > ![rakauvi_map.jpeg|sban htiny ctr](/img/user/Images/Maps/rakauvi_map.jpeg)
 > **[[Locations/Feywild/Feywild\|Feywild]]**
-> ![[Feywild.jpg\|sban htiny ctr]]
+> ![Feywild.jpg|sban htiny ctr](/img/user/Images/Maps/Feywild.jpg)
 
 > [!cards|dataview]
->  | Column Name |
-> | ----------- |
+>  | Column Name                                                              |
+> | ------------------------------------------------------------------------ |
+> | **[[Entities/Player Characters/Runa\|Runa]]**                         |
+> | **[[Entities/Player Characters/Mirri\|Mirri]]**                       |
+> | **[[Entities/Player Characters/Corvaux\|Corvaux]]**                   |
+> | **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**                 |
+> | **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]** |
 > 
 { .block-language-dataview}
 
@@ -42,8 +47,8 @@ Add more columns
 > [!grid]
 > ![runa.png](/img/user/Images/Creatures/runa.png)
 > ![luck_of_the_draw.png](/img/user/Images/Creatures/luck_of_the_draw.png)
-> ![[Mirri.png\|Mirri.png]]
-> ![[Aerendyl_.png\|Aerendyl_.png]]
+> ![Mirri.png](/img/user/Images/Maps/Mirri.png)
+> ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png)
 > ![corvaux.png](/img/user/Images/Creatures/corvaux.png)
 
 > [!recite|no-t]
@@ -87,8 +92,8 @@ Add more columns
 - [[Entities/Titans/Autumn Court/Archfey/Fitzroya\|Fitzroya]]
 - [[Entities/Titans/Autumn Court/Archfey/Adansonia\|Adansonia]]
 - [[Entities/Titans/Autumn Court/Archfey/Calyptica\|Calyptica]]
-- [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
 - [[Entities/Titans/Hallow\|Hallow]]
+- [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
 - [[Entities/Titans/Demons/Thousand-Eyed Deceiver\|Thousand-Eyed Deceiver]]
 - [[Entities/Titans/Demons/Orchus\|Orchus]]
 - [[Entities/Titans/Da'yin Kuya of Infinite Facets\|Da'yin Kuya of Infinite Facets]]
