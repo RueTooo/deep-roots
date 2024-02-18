@@ -14,21 +14,21 @@
 
 ## Involved NPCs
 - [[Entities/NPCs/Dig Team/Kutha Novis\|Kutha Novis]]
-- [[Entities/NPCs/Dig Team/Professor Ssimmia Hakani\|Professor Ssimmia Hakani]]
-- [[Entities/NPCs/Dig Team/Ssslannith the Flametouched\|Ssslannith the Flametouched]]
 - [[Entities/NPCs/Dig Team/Huli Cedarwind\|Huli Cedarwind]]
+- [[Entities/NPCs/Dig Team/Ssslannith the Flametouched\|Ssslannith the Flametouched]]
+- [[Entities/NPCs/Dig Team/Professor Ssimmia Hakani\|Professor Ssimmia Hakani]]
 - [[Entities/NPCs/Dig Team/Tarnak Swiftclaw\|Tarnak Swiftclaw]]
 - [[Entities/NPCs/Dig Team/Asha Skysong\|Asha Skysong]]
-- [[Entities/NPCs/Dig Team/Eldanor Nightbloom\|Eldanor Nightbloom]]
 - [[Entities/NPCs/Dig Team/Eewana\|Eewana]]
 - [[Entities/NPCs/Dig Team/Xandri Khalkos\|Xandri Khalkos]]
 - [[Entities/NPCs/Dig Team/Grunk the Mighty\|Grunk the Mighty]]
 - [[Entities/NPCs/Dig Team/Haralphus\|Haralphus]]
+- [[Entities/NPCs/Dig Team/Eldanor Nightbloom\|Eldanor Nightbloom]]
 - [[Entities/NPCs/Dig Team/Kazimere Flintfall\|Kazimere Flintfall]]
 
 { .block-language-dataview}
 ## Description
 A [[Temple of Five\|Temple of Five]] was built in Arkehost. Approximately 50 years ago, members of the [[Entities/Factions/Roshmore Tower\|Roshmore Tower]] through a failed experiment causing fire to rain down on the desert city. 
-When the [[Hall of Ancestry\|Hall of Ancestry]] construct dragon awoke ([[Thaddeus\|Thaddeus]] and [[Lady Liatris\|Lady Liatris]]) in [[Sylvari\|Sylvari]], it burrowed its way back to its origin in [[Baheera\|Baheera]]. 
+When the [[Hall of Ancestry\|Hall of Ancestry]] construct dragon awoke ([[Thaddeus\|Thaddeus]] and [[Lady Liatris\|Lady Liatris]]) in [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]], it burrowed its way back to its origin in [[Baheera\|Baheera]]. 
 ## Other 
 
