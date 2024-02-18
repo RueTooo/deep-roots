@@ -75,23 +75,23 @@ Add more columns
 > [!kanban|no-title txt-c]
 > [!caption|left]
 
-- [[Entities/Titans/Thaw\|Thaw]]
-- [[Entities/Titans/Frost\|Frost]]
+- [[Entities/Titans/Winter Court/Monarchs/Thaw\|Thaw]]
+- [[Entities/Titans/Winter Court/Monarchs/Frost\|Frost]]
+- [[Entities/Titans/Winter Court/Archfey/Yatu\|Yatu]]
+- [[Entities/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
+- [[Entities/Titans/Winter Court/Archfey/Shirosa\|Shirosa]]
+- [[Entities/Titans/Winter Court/Archfey/Ithliyian\|Ithliyian]]
+- [[Entities/Titans/Winter Court/Archfey/Inta\|Inta]]
+- [[Entities/Titans/Autumn Court/Archfey/Thuja\|Thuja]]
+- [[Entities/Titans/Autumn Court/Archfey/Samara\|Samara]]
+- [[Entities/Titans/Autumn Court/Archfey/Fitzroya\|Fitzroya]]
+- [[Entities/Titans/Autumn Court/Archfey/Adansonia\|Adansonia]]
+- [[Entities/Titans/Autumn Court/Archfey/Calyptica\|Calyptica]]
 - [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
 - [[Entities/Titans/Hallow\|Hallow]]
 - [[Entities/Titans/Demons/Thousand-Eyed Deceiver\|Thousand-Eyed Deceiver]]
 - [[Entities/Titans/Demons/Orchus\|Orchus]]
 - [[Entities/Titans/Da'yin Kuya of Infinite Facets\|Da'yin Kuya of Infinite Facets]]
-- [[Entities/Titans/Archfey/Winter Court/Inta\|Inta]]
-- [[Entities/Titans/Archfey/Winter Court/Shirosa\|Shirosa]]
-- [[Entities/Titans/Archfey/Winter Court/Yatu\|Yatu]]
-- [[Entities/Titans/Archfey/Winter Court/Umibuki\|Umibuki]]
-- [[Entities/Titans/Archfey/Winter Court/Ithliyian\|Ithliyian]]
-- [[Entities/Titans/Archfey/Autumn Court/Thuja\|Thuja]]
-- [[Entities/Titans/Archfey/Autumn Court/Samara\|Samara]]
-- [[Entities/Titans/Archfey/Autumn Court/Fitzroya\|Fitzroya]]
-- [[Entities/Titans/Archfey/Autumn Court/Calyptica\|Calyptica]]
-- [[Entities/Titans/Archfey/Autumn Court/Adansonia\|Adansonia]]
 
 { .block-language-dataview}
 
@@ -102,3 +102,5 @@ Add more columns
 { .block-language-dataview}
 
 [Link](/Users/rachelalworth/Library/Mobile Documents/com~apple~CloudDocs/my%20leaflet%20project/index.html)
+
+<iframe src="[https://photoprism.ajy.co/s/13icq91ne6/heart-of-darkness](https://photoprism.ajy.co/s/13icq91ne6/heart-of-darkness)" width="100%" height="800"></iframe>
