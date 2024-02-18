@@ -13,18 +13,18 @@
 ## Outcomes
 
 ## Involved NPCs
-- [[Entities/NPCs/Professor Ssimmia Hakani\|Professor Ssimmia Hakani]]
-- [[Entities/NPCs/Ssslannith the Flametouched\|Ssslannith the Flametouched]]
-- [[Entities/NPCs/Tarnak Swiftclaw\|Tarnak Swiftclaw]]
-- [[Entities/NPCs/Kazimere Flintfall\|Kazimere Flintfall]]
-- [[Entities/NPCs/Huli Cedarwind\|Huli Cedarwind]]
-- [[Entities/NPCs/Kutha Novis\|Kutha Novis]]
-- [[Entities/NPCs/Asha Skysong\|Asha Skysong]]
-- [[Entities/NPCs/Haralphus\|Haralphus]]
-- [[Entities/NPCs/Eewana\|Eewana]]
-- [[Entities/NPCs/Eldanor Nightbloom\|Eldanor Nightbloom]]
-- [[Entities/NPCs/Grunk the Mighty\|Grunk the Mighty]]
-- [[Entities/NPCs/Xandri Khalkos\|Xandri Khalkos]]
+- [[Entities/NPCs/Dig Team/Kutha Novis\|Kutha Novis]]
+- [[Entities/NPCs/Dig Team/Professor Ssimmia Hakani\|Professor Ssimmia Hakani]]
+- [[Entities/NPCs/Dig Team/Ssslannith the Flametouched\|Ssslannith the Flametouched]]
+- [[Entities/NPCs/Dig Team/Huli Cedarwind\|Huli Cedarwind]]
+- [[Entities/NPCs/Dig Team/Tarnak Swiftclaw\|Tarnak Swiftclaw]]
+- [[Entities/NPCs/Dig Team/Asha Skysong\|Asha Skysong]]
+- [[Entities/NPCs/Dig Team/Eldanor Nightbloom\|Eldanor Nightbloom]]
+- [[Entities/NPCs/Dig Team/Eewana\|Eewana]]
+- [[Entities/NPCs/Dig Team/Xandri Khalkos\|Xandri Khalkos]]
+- [[Entities/NPCs/Dig Team/Grunk the Mighty\|Grunk the Mighty]]
+- [[Entities/NPCs/Dig Team/Haralphus\|Haralphus]]
+- [[Entities/NPCs/Dig Team/Kazimere Flintfall\|Kazimere Flintfall]]
 
 { .block-language-dataview}
 ## Description
