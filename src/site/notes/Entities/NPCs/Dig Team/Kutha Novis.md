@@ -28,7 +28,7 @@
 # Kutha Novis
 
 ## Description
-A scholar from the [[Restless Expanse\|Restless Expanse]] in east [[Baheera\|Baheera]].
+A scholar from the [[Restless Expanse\|Restless Expanse]] in east [[Locations/Prime Material Plane, Rakauvi/Baheera/Baheera\|Baheera]].
 ## Location
 `=this.location`
 ## History
