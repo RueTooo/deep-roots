@@ -9,7 +9,7 @@ Much of Winter's strength lays within its deep connection to both elementals and
 
 The people of Winter are, by and large, very private. Many Winter communities are hidden, with secret methods or whispered codes used to reveal the entrance. The people can be equally difficult to get to know, though once a bond of trust is formed, many in Winter will honor that bond even beyond death. 
 ## Map
-![Winter map.jpg](/img/user/Images/Maps/Winter%20map.jpg)
+![[Winter map.jpg\|Winter map.jpg]]
 ## Stats
 - **Size:** 
 - **Points of Interest:**
