@@ -9,7 +9,8 @@ Much of Winter's strength lays within its deep connection to both elementals and
 
 The people of Winter are, by and large, very private. Many Winter communities are hidden, with secret methods or whispered codes used to reveal the entrance. The people can be equally difficult to get to know, though once a bond of trust is formed, many in Winter will honor that bond even beyond death. 
 ## Map
-![[Winter map.jpg\|Winter map.jpg]]
+<iframe src="https://ruetooo.github.io/leaflet-map-simple/winterMap" width=80% height="400"></iframe>
+
 ## Stats
 - **Size:** 
 - **Points of Interest:**
@@ -23,7 +24,7 @@ The people of Winter are, by and large, very private. Many Winter communities ar
 
 ## Politics
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/locations/feywild/winter/archfey-of-the-winter-court/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
