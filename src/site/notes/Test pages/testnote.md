@@ -48,7 +48,7 @@ Add more columns
 > ![runa.png](/img/user/Images/Creatures/runa.png)
 > ![luck_of_the_draw.png](/img/user/Images/Creatures/luck_of_the_draw.png)
 > ![Mirri.png](/img/user/Images/Creatures/Mirri.png)
-> ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png)
+> ![[Aerendyl_.png\|Aerendyl_.png]]
 > ![corvaux.png](/img/user/Images/Creatures/corvaux.png)
 
 > [!recite|no-t]
