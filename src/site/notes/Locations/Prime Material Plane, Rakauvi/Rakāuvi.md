@@ -6,7 +6,7 @@
 The Material Plane in my universe is called [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]. Common creation legends tell of the first seven trees the grew up out of the center of the world. From each tree came unique people and creatures, favored by this god or that. Today, only the remnants of most of those great trees still exist, but the people and their ancient communities are still there. 
 
 ## Map
-<iframe src="https://ruetooo.github.io/leaflet-map-simple/rakauviMap" width=50% height="400"></iframe>
+<iframe src="https://ruetooo.github.io/leaflet-map-simple/rakauviMap" width=80% height="400"></iframe>
 
 ## Stats
 - **Size:** 
