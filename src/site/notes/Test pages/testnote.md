@@ -17,8 +17,13 @@ Add more columns
 > ![Feywild.jpg|sban htiny ctr](/img/user/Images/Maps/Feywild.jpg)
 
 > [!cards|dataview]
->  | Column Name |
-> | ----------- |
+>  | Column Name                                                              |
+> | ------------------------------------------------------------------------ |
+> | **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**                 |
+> | **[[Entities/Player Characters/Corvaux\|Corvaux]]**                   |
+> | **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]** |
+> | **[[Entities/Player Characters/Mirri\|Mirri]]**                       |
+> | **[[Entities/Player Characters/Runa\|Runa]]**                         |
 > 
 { .block-language-dataview}
 
@@ -42,7 +47,7 @@ Add more columns
 > [!grid]
 > ![runa.png](/img/user/Images/Creatures/runa.png)
 > ![luck_of_the_draw.png](/img/user/Images/Creatures/luck_of_the_draw.png)
-> ![Mirri.png](/img/user/Images/Maps/Mirri.png)
+> ![Mirri.png](/img/user/Images/Creatures/Mirri.png)
 > ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png)
 > ![corvaux.png](/img/user/Images/Creatures/corvaux.png)
 
@@ -82,16 +87,17 @@ Add more columns
 - [[Entities/Titans/Winter Court/Archfey/Shirosa\|Shirosa]]
 - [[Entities/Titans/Winter Court/Archfey/Ithliyian\|Ithliyian]]
 - [[Entities/Titans/Winter Court/Archfey/Inta\|Inta]]
-- [[Entities/Titans/Autumn Court/Archfey/Thuja\|Thuja]]
-- [[Entities/Titans/Autumn Court/Archfey/Samara\|Samara]]
-- [[Entities/Titans/Autumn Court/Archfey/Fitzroya\|Fitzroya]]
-- [[Entities/Titans/Autumn Court/Archfey/Adansonia\|Adansonia]]
-- [[Entities/Titans/Autumn Court/Archfey/Calyptica\|Calyptica]]
 - [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
 - [[Entities/Titans/Hallow\|Hallow]]
+- [[Entities/Titans/Eristalon\|Eristalon]]
 - [[Entities/Titans/Demons/Thousand-Eyed Deceiver\|Thousand-Eyed Deceiver]]
 - [[Entities/Titans/Demons/Orchus\|Orchus]]
 - [[Entities/Titans/Da'yin Kuya of Infinite Facets\|Da'yin Kuya of Infinite Facets]]
+- [[Entities/Titans/Autumn Court/Archfey/Thuja\|Thuja]]
+- [[Entities/Titans/Autumn Court/Archfey/Samara\|Samara]]
+- [[Entities/Titans/Autumn Court/Archfey/Fitzroya\|Fitzroya]]
+- [[Entities/Titans/Autumn Court/Archfey/Calyptica\|Calyptica]]
+- [[Entities/Titans/Autumn Court/Archfey/Adansonia\|Adansonia]]
 
 { .block-language-dataview}
 
