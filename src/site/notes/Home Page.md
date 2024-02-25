@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
 ---
 
-![banner.png|banner](/img/user/Images/banner.png)
+![banner.png|banner-tall](/img/user/Images/banner.png)
 **Player Characters**
 > [!cards|5]
 > 
-> **[[Entities/Player Characters/Mirri\|Mirri]]**
+> **[[Entities/Player Characters/Mirri\|Entities/Player Characters/Mirri]]**
 > ![Mirri card.png](/img/user/Images/Creatures/Mirri%20card.png)
 > 
 > **[[Entities/Player Characters/Runa\|Runa]]**
@@ -21,7 +21,6 @@
 > **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]**
 > ![luck_of_the_draw.png](/img/user/Images/Creatures/luck_of_the_draw.png)
 
-![[Main Canvas.canvas|Main Canvas]]
 
 **Big Players**
 > [!tip]
@@ -32,16 +31,17 @@
 > - [[Entities/Titans/Winter Court/Archfey/Shirosa\|Shirosa]]
 > - [[Entities/Titans/Winter Court/Archfey/Ithliyian\|Ithliyian]]
 > - [[Entities/Titans/Winter Court/Archfey/Inta\|Inta]]
-> - [[Entities/Titans/Autumn Court/Archfey/Thuja\|Thuja]]
-> - [[Entities/Titans/Autumn Court/Archfey/Samara\|Samara]]
-> - [[Entities/Titans/Autumn Court/Archfey/Fitzroya\|Fitzroya]]
-> - [[Entities/Titans/Autumn Court/Archfey/Adansonia\|Adansonia]]
-> - [[Entities/Titans/Autumn Court/Archfey/Calyptica\|Calyptica]]
 > - [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
 > - [[Entities/Titans/Hallow\|Hallow]]
+> - [[Entities/Titans/Eristalon\|Eristalon]]
 > - [[Entities/Titans/Demons/Thousand-Eyed Deceiver\|Thousand-Eyed Deceiver]]
 > - [[Entities/Titans/Demons/Orchus\|Orchus]]
 > - [[Entities/Titans/Da'yin Kuya of Infinite Facets\|Da'yin Kuya of Infinite Facets]]
+> - [[Entities/Titans/Autumn Court/Archfey/Thuja\|Thuja]]
+> - [[Entities/Titans/Autumn Court/Archfey/Samara\|Samara]]
+> - [[Entities/Titans/Autumn Court/Archfey/Fitzroya\|Fitzroya]]
+> - [[Entities/Titans/Autumn Court/Archfey/Calyptica\|Calyptica]]
+> - [[Entities/Titans/Autumn Court/Archfey/Adansonia\|Adansonia]]
 > 
 { .block-language-dataview}
 
