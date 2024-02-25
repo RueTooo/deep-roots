@@ -14,7 +14,7 @@
 > 
 > Pronouns|Location| 
 > ---|---|
-> `=this.Pronouns`|`=this.location`|
+> `=this.Pronouns`|[[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]|
 > 
 > Affiliation(s)|
 > ---|
@@ -30,7 +30,7 @@
 ## Description
 An elven archaeologist, renowned for her expertise in deciphering obscure ancient texts. With her encyclopedic knowledge, she seeks to uncover and help restore the temple. She is from the [[Luxweaver Academy\|Luxweaver Academy]], in central [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]]
 ## Location
-`=this.location`
+[[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]
 ## History
 
 ### Backstory
