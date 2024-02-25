@@ -14,7 +14,7 @@
 > 
 > Pronouns|Location| 
 > ---|---|
-> he/him|`=this.location`|
+> he/him|[[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]|
 > 
 > Affiliation(s)|
 > ---|
@@ -30,7 +30,7 @@
 ## Description
 A grand looking Tabaxi archaeologist, who stands beside a large table sketching out the cavern layout as well as the beginnings of several tunnels leading away from the main chamber. He has a set of complex measuring tools, calipers and a spyglass, different charcoal pencils and paints that he dabs here and there on the map. He speaks to several tabaxi assistants, who scatter in various directions, bringing back more detailed descriptions after several minutes of scaling the walls and structures.
 ## Location
-`=this.location`
+[[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]
 ## History
 
 ### Backstory
