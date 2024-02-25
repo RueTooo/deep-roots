@@ -14,7 +14,7 @@
 > 
 > Pronouns|Location| 
 > ---|---|
-> She/her|[[Arkehost Oasis\|Arkehost Oasis]]|
+> She/her|[[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]|
 > 
 > Affiliation(s)|
 > ---|
@@ -30,7 +30,7 @@
 ## Description
 Eewana, [[Entities/NPCs/Dig Team/Xandri Khalkos\|Xandri]]'s young assistant, perched on top of the building slowly uncovering more of the statue. She wears a splendid set of half plate armor, and her blue and red clothes match the Priestess Xandri's as well.
 ## Location
-[[Arkehost Oasis\|Arkehost Oasis]]
+[[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]
 ## History
 
 ### Backstory
