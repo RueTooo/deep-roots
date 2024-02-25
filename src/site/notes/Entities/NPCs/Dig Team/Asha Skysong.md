@@ -14,7 +14,7 @@
 > 
 > Pronouns|Location| 
 > ---|---|
-> `=this.Pronouns`|`=this.location`|
+> `=this.Pronouns`|[[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]|
 > 
 > Affiliation(s)|
 > ---|
@@ -30,7 +30,7 @@
 ## Description
 A transmutation mage
 ## Location
-`=this.location`
+[[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]
 ## History
 
 ### Backstory
