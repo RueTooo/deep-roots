@@ -14,7 +14,7 @@
 > 
 > Pronouns|Location| 
 > ---|---|
-> he/him|[[Arkehost Oasis\|Arkehost Oasis]]|
+> he/him|[[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]|
 > 
 > Affiliation(s)|
 > ---|
@@ -30,7 +30,7 @@
 ## Description
 Haralphus introduces himself as a "[[Gravewalker\|Gravewalker]]". He is an elf of significant age, nearly completely covered in tattoos and decorative scars. Some of them pulse now and then with yellow and green light as he slowly examines the gate archway in the east of the chamber, whispering to himself all the while. A bat flutters to and fro around him, landing occasionally as Haralphus feed it a bit of fruit.
 ## Location
-[[Arkehost Oasis\|Arkehost Oasis]]
+[[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]
 ## History
 
 ### Backstory
