@@ -14,7 +14,7 @@
 > 
 > Pronouns|Location| 
 > ---|---|
-> She/her|`=this.location`|
+> She/her|[[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]|
 > 
 > Affiliation(s)|
 > ---|
@@ -30,7 +30,7 @@
 ## Description
 Prof Ssimmia Hakani, one of the curators at the [[Aurora Sanctum\|Aurora Sanctum]] (a museum in northeastern [[Locations/Prime Material Plane, Rakauvi/Baheera/Baheera\|Baheera]]) who is a colleague of [[Thaddeus\|Thaddeus]] and invited him and his companions down into the dig to meet the other researchers.
 ## Location
-`=this.location`
+[[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]
 ## Abilities 
 
 ### Combat
