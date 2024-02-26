@@ -10,7 +10,7 @@ This frigid continent's icy landscapes are dotted with massive snow-covered pine
 - **Size:** 
 - **Points of Interest:**
     - ...
-- **Location:** `=this.Location`
+- **Location:** [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
 
 ## Politics
 
