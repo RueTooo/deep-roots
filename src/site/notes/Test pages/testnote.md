@@ -19,11 +19,11 @@ Add more columns
 > [!cards|dataview]
 >  | Column Name                                                              |
 > | ------------------------------------------------------------------------ |
-> | **[[Entities/Player Characters/Runa\|Runa]]**                         |
-> | **[[Entities/Player Characters/Mirri\|Mirri]]**                       |
-> | **[[Entities/Player Characters/Corvaux\|Corvaux]]**                   |
 > | **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**                 |
+> | **[[Entities/Player Characters/Corvaux\|Corvaux]]**                   |
 > | **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]** |
+> | **[[Entities/Player Characters/Mirri\|Mirri]]**                       |
+> | **[[Entities/Player Characters/Runa\|Runa]]**                         |
 > 
 { .block-language-dataview}
 
@@ -80,24 +80,24 @@ Add more columns
 > [!kanban|no-title txt-c]
 > [!caption|left]
 
-- [[Entities/Titans/Eristalon\|Eristalon]]
-- [[Entities/Titans/Hallow\|Hallow]]
-- [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
-- [[Entities/Titans/Demons/Thousand-Eyed Deceiver\|Thousand-Eyed Deceiver]]
-- [[Entities/Titans/Demons/Orchus\|Orchus]]
-- [[Entities/Titans/Autumn Court/Archfey/Samara\|Samara]]
-- [[Entities/Titans/Autumn Court/Archfey/Adansonia\|Adansonia]]
-- [[Entities/Titans/Autumn Court/Archfey/Thuja\|Thuja]]
-- [[Entities/Titans/Autumn Court/Archfey/Fitzroya\|Fitzroya]]
-- [[Entities/Titans/Autumn Court/Archfey/Calyptica\|Calyptica]]
-- [[Entities/Titans/Da'yin Kuya of Infinite Facets\|Da'yin Kuya of Infinite Facets]]
-- [[Entities/Titans/Winter Court/Monarchs/Frost\|Frost]]
 - [[Entities/Titans/Winter Court/Monarchs/Thaw\|Thaw]]
+- [[Entities/Titans/Winter Court/Monarchs/Frost\|Frost]]
 - [[Entities/Titans/Winter Court/Archfey/Yatu\|Yatu]]
+- [[Entities/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
 - [[Entities/Titans/Winter Court/Archfey/Shirosa\|Shirosa]]
 - [[Entities/Titans/Winter Court/Archfey/Ithliyian\|Ithliyian]]
-- [[Entities/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
 - [[Entities/Titans/Winter Court/Archfey/Inta\|Inta]]
+- [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
+- [[Entities/Titans/Hallow\|Hallow]]
+- [[Entities/Titans/Eristalon\|Eristalon]]
+- [[Entities/Titans/Demons/Thousand-Eyed Deceiver\|Thousand-Eyed Deceiver]]
+- [[Entities/Titans/Demons/Orchus\|Orchus]]
+- [[Entities/Titans/Da'yin Kuya of Infinite Facets\|Da'yin Kuya of Infinite Facets]]
+- [[Entities/Titans/Autumn Court/Archfey/Thuja\|Thuja]]
+- [[Entities/Titans/Autumn Court/Archfey/Samara\|Samara]]
+- [[Entities/Titans/Autumn Court/Archfey/Fitzroya\|Fitzroya]]
+- [[Entities/Titans/Autumn Court/Archfey/Calyptica\|Calyptica]]
+- [[Entities/Titans/Autumn Court/Archfey/Adansonia\|Adansonia]]
 
 { .block-language-dataview}
 
