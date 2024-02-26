@@ -10,7 +10,7 @@ Taking its name from the ancient elvish word "Halinhyr," which means "Sacred Gro
 - **Size:** 
 - **Points of Interest:**
     - ...
-- **Location:** `=this.Location`
+- **Location:** [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
 
 ## Politics
 
