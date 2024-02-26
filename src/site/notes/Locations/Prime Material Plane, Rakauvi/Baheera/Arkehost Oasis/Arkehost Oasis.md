@@ -10,7 +10,7 @@
 - **Residents:** 
 - **Size:** 
 - **Points of Interest:**
-- **Location:** [[Locations/Prime Material Plane, Rakauvi/Baheera/Baheera\|Baheera]]
+- **Location:** [[Locations/Prime Material Plane, Rakauvi/Baheera/Baheera\|Baheera]],[[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
 
 ## Politics
 - **Leader:** 
