@@ -24,14 +24,14 @@
 
 **Big Players**
 > [!tip]
->  - [[Entities/Titans/Eristalon\|Eristalon]]
-> - [[Entities/Titans/Hallow\|Hallow]]
+>  - [[Entities/Titans/Winter Court/Monarchs/Thaw\|Thaw]]
+> - [[Entities/Titans/Winter Court/Monarchs/Frost\|Frost]]
+> - [[Entities/Titans/Winter Court/Archfey/Yatu\|Yatu]]
+> - [[Entities/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
+> - [[Entities/Titans/Winter Court/Archfey/Shirosa\|Shirosa]]
+> - [[Entities/Titans/Winter Court/Archfey/Ithliyian\|Ithliyian]]
+> - [[Entities/Titans/Winter Court/Archfey/Inta\|Inta]]
 > - [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
-> - [[Entities/Titans/Demons/Thousand-Eyed Deceiver\|Thousand-Eyed Deceiver]]
-> - [[Entities/Titans/Demons/Orchus\|Orchus]]
-> - [[Entities/Titans/Autumn Court/Archfey/Samara\|Samara]]
-> - [[Entities/Titans/Autumn Court/Archfey/Adansonia\|Adansonia]]
-> - [[Entities/Titans/Autumn Court/Archfey/Thuja\|Thuja]]
 > 
 { .block-language-dataview}
 
