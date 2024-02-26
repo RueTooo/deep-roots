@@ -10,7 +10,7 @@
 - **Size:** 
 - **Points of Interest:**
     - ...
-- **Location:** `=this.Location`
+- **Location:** [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
 
 ## Politics
 
