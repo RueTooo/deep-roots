@@ -5,7 +5,7 @@
 
 > [!infobox|right]
 > # Jinx
-> ![Jinx.png|cover hsmall](/img/user/Images/Creatures/Jinx.png)
+> ![Jinx.png](/img/user/Images/Creatures/Jinx.png)
 > 
 > Race | Subrace |
 > ---|---|
