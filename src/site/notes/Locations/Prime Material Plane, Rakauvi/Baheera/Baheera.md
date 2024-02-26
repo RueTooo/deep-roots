@@ -10,7 +10,7 @@ The sun-drenched continent of Baheera looks like a perfect paradise of sand dune
 - **Size:** 
 - **Points of Interest:**
     - ...
-- **Location:** `=this.Location`
+- **Location:** [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
 
 ## Politics
 
