@@ -3,7 +3,7 @@
 ---
 
 ## Description
-Formerly of the [[Autumn Court\|Autumn Court]], Scarlet Maple was the site of the demon incursion
+Formerly of the [[Locations/Feywild/Autumn/Autumn\|Autumn]] Court, Scarlet Maple was the site of the demon incursion
 ## Map
 ![[Scarlet Maple map\|Scarlet Maple map]]
 ## Stats
