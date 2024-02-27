@@ -15,7 +15,7 @@ The Material Plane in my universe is called [[Locations/Prime Material Plane, Ra
 	- [[Locations/Prime Material Plane, Rakauvi/Baheera/Baheera\|Baheera]]
 	- [[Locations/Prime Material Plane, Rakauvi/Hallowhymn/Hallowhymn\|Hallowhymn]]
 	- [[Locations/Prime Material Plane, Rakauvi/Nordthorn/Nordthorn\|Nordthorn]]
-	- [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]]
+	- [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari]]
 	- [[Locations/Prime Material Plane, Rakauvi/Umbrosia/Umbrosia\|Umbrosia]]
 	- [[Locations/Prime Material Plane, Rakauvi/Yewdon/Yewdon\|Yewdon]]
     
