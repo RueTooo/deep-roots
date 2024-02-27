@@ -6,7 +6,7 @@
 **Player Characters**
 > [!cards|5]
 > 
-> **[[Entities/Player Characters/Mirri\|Entities/Player Characters/Mirri]]**
+> **[[Entities/Player Characters/Mirri\|Mirri]]**
 > ![Mirri card.png](/img/user/Images/Creatures/Mirri%20card.png)
 > 
 > **[[Entities/Player Characters/Runa\|Runa]]**
@@ -24,15 +24,7 @@
 
 **Big Players**
 > [!tip]
->  - [[Entities/Titans/Winter Court/Monarchs/Thaw\|Thaw]]
-> - [[Entities/Titans/Winter Court/Monarchs/Frost\|Frost]]
-> - [[Entities/Titans/Winter Court/Archfey/Yatu\|Yatu]]
-> - [[Entities/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
-> - [[Entities/Titans/Winter Court/Archfey/Shirosa\|Shirosa]]
-> - [[Entities/Titans/Winter Court/Archfey/Ithliyian\|Ithliyian]]
-> - [[Entities/Titans/Winter Court/Archfey/Inta\|Inta]]
-> - [[Entities/Titans/Lady Sunnis\|Lady Sunnis]]
-> 
+>  
 { .block-language-dataview}
 
 
@@ -45,6 +37,13 @@
 >  - [[Quotes/What the hell is a therapist?\|What the hell is a therapist?]]
 > - [[Quotes/You can't keep borrowing grief from the future.\|You can't keep borrowing grief from the future.]]
 > - [[Quotes/You don't look fine\|You don't look fine]]
+> - [[Quotes/The only thing that's a threat is that thing in the sky (the sun).\|The only thing that's a threat is that thing in the sky (the sun).]]
+> - [[Quotes/I have a plan for if I go down there, but I'm going to have to sleep in the hole.\|I have a plan for if I go down there, but I'm going to have to sleep in the hole.]]
+> - [[Quotes/I love rock music! (starts bashing a load of rocks together)\|I love rock music! (starts bashing a load of rocks together)]]
+> - [[Quotes/If you want to die, leave the room!\|If you want to die, leave the room!]]
+> - [[Quotes/Take the scenic route, asshole.\|Take the scenic route, asshole.]]
+> - [[Quotes/This is a very different story when everything's getting smashed.\|This is a very different story when everything's getting smashed.]]
+> - [[Quotes/I gave you a chance to talk. Perish.\|I gave you a chance to talk. Perish.]]
 > 
 { .block-language-dataview}
 
