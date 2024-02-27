@@ -28,7 +28,7 @@
 
 
 ## Description
-Elder Tivorn, an onyx black dragonborn monk. Tivorn follows the ways of [[Gereth\|Gereth]], the draconic bringer of both chaos and opportunity, and is from a [[Temple of Five\|Temple of Five]] near [[Greylingstad\|Greylingstad]], in the Feywild [[Locations/Feywild/Summer/Summer\|Summer]] Court.
+Elder Tivorn, an onyx black dragonborn monk. Tivorn follows the ways of [[Entities/NPCs/Titans/Dragon Spirits/Gereth\|Gereth]], the draconic bringer of both chaos and opportunity, and is from a [[Temple of Five\|Temple of Five]] near [[Greylingstad\|Greylingstad]], in the Feywild [[Locations/Feywild/Summer/Summer\|Summer]] Court.
 ## Location
 [[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]
 ## History
