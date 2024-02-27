@@ -9,12 +9,12 @@
 > 
 > Race | Subrace |
 > ---|---|
-> `=this.race` | `=this.subrace` |
+> Goblin | Dankwood |
 > 
 > 
 > Pronouns|Location| 
 > ---|---|
-> `=this.Pronouns`|`=this.location`|
+> She/her|`=this.location`|
 > 
 > Affiliation(s)|
 > ---|
