@@ -28,7 +28,7 @@
 # Kazimere Flintfall
 
 ## Description
-A short dwarf with opalescent hair and a trimmed beard. [[Entities/NPCs/Dig Team/Professor Ssimmia Hakani\|Professor Hakani]] points him out, as he sits on the northern edge of the raised platform (where the [[Entities/Titans/Pantheon/Tiamat\|Tiamat]] statue is partially uncovered). When the group first sees him, he sits with legs folded beneath him, hands pressed on the bark-like stone texture of the tree trunk that supports the platform.
+A short dwarf with opalescent hair and a trimmed beard. [[Entities/NPCs/Dig Team/Professor Ssimmia Hakani\|Professor Hakani]] points him out, as he sits on the northern edge of the raised platform (where the [[Entities/NPCs/Titans/Pantheon/Tiamat\|Tiamat]] statue is partially uncovered). When the group first sees him, he sits with legs folded beneath him, hands pressed on the bark-like stone texture of the tree trunk that supports the platform.
 ## Location
 [[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]
 ## History
