@@ -5,7 +5,7 @@
 ## Description
 
 ## Map
-![[Winter map.jpg\|Winter map.jpg]]
+![Winter_map.jpg](/img/user/Images/Maps/Winter_map.jpg)
 ## Stats
 - **Residents:** 
 - **Size:** 
