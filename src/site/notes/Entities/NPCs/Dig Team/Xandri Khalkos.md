@@ -28,7 +28,7 @@
 # Xandri Khalkos
 
 ## Description
-Another elderly individual - Xandri Khalkos, an aasimar priestess to [[Aesa\|Aesa]] (the etheral dragon spirit of dreams). She is lingering around the area that [[Entities/Player Characters/Corvaux\|Corvaux]] was interested in - the small building with the strange vast emptiness inside.
+Another elderly individual - Xandri Khalkos, an aasimar priestess to [[Entities/NPCs/Titans/Dragon Spirits/Aesa\|Aesa]] (the etheral dragon spirit of dreams). She is lingering around the area that [[Entities/Player Characters/Corvaux\|Corvaux]] was interested in - the small building with the strange vast emptiness inside.
 ## Location
 [[Locations/Prime Material Plane, Rakauvi/Baheera/Arkehost Oasis/Arkehost Oasis\|Arkehost Oasis]]
 ## History
