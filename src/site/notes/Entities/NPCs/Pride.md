@@ -28,7 +28,7 @@
 
 
 ## Description
-Scribe; taught [[Entities/Player Characters/Retired/Thaddeus Quill\|Thaddeus]] some basic [[Sylvan\|Sylvan]].
+Scribe; taught [[Entities/Player Characters/Retired/Thaddeus Quill\|Thaddeus]] some basic [[Languages/Sylvan\|Sylvan]].
 ## Location
 [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
 ## History
