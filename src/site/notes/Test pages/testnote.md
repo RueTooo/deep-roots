@@ -35,7 +35,8 @@ Add more columns
 > ![Runa1 card.png](/img/user/Images/Creatures/Runa1%20card.png)
 > ![luck_of_the_draw.png](/img/user/Images/Creatures/luck_of_the_draw.png)
 > ![Mirri.png](/img/user/Images/Creatures/Mirri.png)
-> > [!infobox]
+> 
+> > [!infobox|center]
 > > # Name
 > > ![[Image.png\|cover hsmall]]
 > > ###### Stats
@@ -62,7 +63,15 @@ Add more columns
 > | Test | Testing |
 > | Test | Testing |
 
-
+> [!kanban]+ 
+>  -  [[Link\|Lane 1 Title]] 
+> 	- ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png) 
+> 	- [[Link\|Card]] 
+> - [[Link\|Lane 2 Title]] 
+> 	- ![Puck.png](/img/user/Images/Creatures/Puck.png) 
+> 	- [[Link\|Card]] 
+> - Text 
+> 	- [ ] Text
 
 
 
