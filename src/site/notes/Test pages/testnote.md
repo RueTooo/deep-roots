@@ -39,6 +39,24 @@ Add more columns
 > ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png)
 > ![Corvaux1 card.png](/img/user/Images/Creatures/Corvaux1%20card.png)
 
+
+> [!kanban|no-t] 
+>  -  **[[Entities/Player Characters/Aerendyl\|Aerendyl]]** 
+> 	- ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png) 
+> 		- Other information 
+> 		- Genasi
+> 	- 
+> - **[[Entities/Player Characters/Mirri\|Mirri]]** 
+> 	- ![Mirri card.png](/img/user/Images/Creatures/Mirri%20card.png) 
+> 		- [[Link\|Card]]
+> 		- Text
+> 			- Text
+> 				- Text
+> 					- 
+> 	- [[Campaign Chronicles/Session List\|Session List]]
+> - Text 
+> 	- [ ] Text
+
 > [!infobox]
 > # Name
 > ![[Image.png\|cover hsmall]]
@@ -53,48 +71,6 @@ Add more columns
 > | ---- | ---- |
 > | Test | Testing |
 > | Test | Testing |
-
-> [!kanban]+ 
->  -  [[Entities/Player Characters/Aerendyl\|Aerendyl]] 
-> 	- ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png) 
-> 	- 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!infobox|right]
-> # testnote
-> ![Aerendyl_ 1.png|cover hsmall](/img/user/Images/Creatures/Aerendyl_%201.png)
-> 
-> 
-> Race | Subrace |
-> ---|---|
-> `=this.race` | `=this.subrace` |
-> 
-> Class | Subclass |
-> ---|---|
-> `=this.Class` | `=this.Subclass` |
-> 
-> Pronouns|Age|Place of Origin| 
-> ---|---|---|
-> `=this.Pronouns`|`=this.age`|`=this.Origin`|
-> 
-> Groups & Affiliations|
-> ---|
-> `=this.AssociatedGroup`
-> 
-> Patron(s)|Language(s)| 
-> ---|---|
-> `=this.Patron`|`=this.Languages`| 
-
-</div></div>
- 
-> - [[Link\|Lane 2 Title]] 
-> 	- ![Puck.png](/img/user/Images/Creatures/Puck.png) 
-> 	- [[Link\|Card]] 
-> - Text 
-> 	- [ ] Text
-
 
 
 > [!recite|no-t]
