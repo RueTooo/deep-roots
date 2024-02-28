@@ -85,7 +85,9 @@ Add more columns
 
 
 > [!info]
->  - [[Campaign Chronicles/List of Sessions/Session 1\|Session 1]]
+>  - [[Campaign Chronicles/Rediscovered Temple of Five\|Rediscovered Temple of Five]]
+> - [[Campaign Chronicles/Session List\|Session List]]
+> - [[Campaign Chronicles/List of Sessions/Session 1\|Session 1]]
 > - [[Campaign Chronicles/List of Sessions/Session 10\|Session 10]]
 > - [[Campaign Chronicles/List of Sessions/Session 11\|Session 11]]
 > - [[Campaign Chronicles/List of Sessions/Session 12\|Session 12]]
@@ -104,8 +106,6 @@ Add more columns
 > - [[Campaign Chronicles/List of Sessions/Session 7\|Session 7]]
 > - [[Campaign Chronicles/List of Sessions/Session 8\|Session 8]]
 > - [[Campaign Chronicles/List of Sessions/Session 9\|Session 9]]
-> - [[Campaign Chronicles/Rediscovered Temple of Five\|Rediscovered Temple of Five]]
-> - [[Campaign Chronicles/Session List\|Session List]]
 > 
 { .block-language-dataview}
 
