@@ -36,15 +36,6 @@ Add more columns
 > ![luck_of_the_draw.png](/img/user/Images/Creatures/luck_of_the_draw.png)
 > ![Mirri.png](/img/user/Images/Creatures/Mirri.png)
 > 
-> > [!infobox|center]
-> > # Name
-> > ![[Image.png\|cover hsmall]]
-> > ###### Stats
-> > | Type |  Stat |
-> > | ---- | ---- |
-> > | Test | Testing |
-> > | Test | Testing |
-> 
 > ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png)
 > ![Corvaux1 card.png](/img/user/Images/Creatures/Corvaux1%20card.png)
 
@@ -64,9 +55,40 @@ Add more columns
 > | Test | Testing |
 
 > [!kanban]+ 
->  -  [[Link\|Lane 1 Title]] 
+>  -  [[Entities/Player Characters/Aerendyl\|Aerendyl]] 
 > 	- ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png) 
-> 	- [[Link\|Card]] 
+> 	- 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!infobox|right]
+> # testnote
+> ![Aerendyl_ 1.png|cover hsmall](/img/user/Images/Creatures/Aerendyl_%201.png)
+> 
+> 
+> Race | Subrace |
+> ---|---|
+> `=this.race` | `=this.subrace` |
+> 
+> Class | Subclass |
+> ---|---|
+> `=this.Class` | `=this.Subclass` |
+> 
+> Pronouns|Age|Place of Origin| 
+> ---|---|---|
+> `=this.Pronouns`|`=this.age`|`=this.Origin`|
+> 
+> Groups & Affiliations|
+> ---|
+> `=this.AssociatedGroup`
+> 
+> Patron(s)|Language(s)| 
+> ---|---|
+> `=this.Patron`|`=this.Languages`| 
+
+</div></div>
+ 
 > - [[Link\|Lane 2 Title]] 
 > 	- ![Puck.png](/img/user/Images/Creatures/Puck.png) 
 > 	- [[Link\|Card]] 
