@@ -42,19 +42,20 @@ Add more columns
 
 > [!kanban|no-t] 
 >  -  **[[Entities/Player Characters/Aerendyl\|Aerendyl]]** 
-> 	- ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png) 
-> 		- Other information 
+> 	- ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png)  
 > 		- Genasi
 > - **[[Entities/Player Characters/Mirri\|Mirri]]** 
 > 	- ![Mirri card.png](/img/user/Images/Creatures/Mirri%20card.png) 
 > 		- [[Link\|Card]]
-> 		- Text
-> 			- Text
-> 				- Text
-> 					- 
-> 	- [[Campaign Chronicles/Session List\|Session List]]
-> - Text 
-> 	- [ ] Text
+> - **[[Entities/Player Characters/Runa\|Runa]]**
+> 	- ![Runa1 card.png](/img/user/Images/Creatures/Runa1%20card.png)
+> - **[[Locations/Feywild/Winter/Winter\|Winter]]**
+> 	- ![Winter_map.jpg](/img/user/Images/Maps/Winter_map.jpg)
+> 	 - [[Locations/Feywild/Winter/Scarlet Maple\|Scarlet Maple]]
+> - [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
+> 
+{ .block-language-dataview}
+
 
 > [!infobox]
 > # Name
