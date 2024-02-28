@@ -19,11 +19,11 @@ Add more columns
 > [!cards|dataview]
 >  | Column Name                                                              |
 > | ------------------------------------------------------------------------ |
-> | **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**                 |
-> | **[[Entities/Player Characters/Corvaux\|Corvaux]]**                   |
-> | **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]** |
-> | **[[Entities/Player Characters/Mirri\|Mirri]]**                       |
 > | **[[Entities/Player Characters/Runa\|Runa]]**                         |
+> | **[[Entities/Player Characters/Mirri\|Mirri]]**                       |
+> | **[[Entities/Player Characters/Corvaux\|Corvaux]]**                   |
+> | **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**                 |
+> | **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]** |
 > 
 { .block-language-dataview}
 
@@ -45,7 +45,6 @@ Add more columns
 > 	- ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png) 
 > 		- Other information 
 > 		- Genasi
-> 	- 
 > - **[[Entities/Player Characters/Mirri\|Mirri]]** 
 > 	- ![Mirri card.png](/img/user/Images/Creatures/Mirri%20card.png) 
 > 		- [[Link\|Card]]
