@@ -10,10 +10,14 @@ Much of Winter's strength lays within its deep connection to both elementals and
 The people of Winter are, by and large, very private. Many Winter communities are hidden, with secret methods or whispered codes used to reveal the entrance. The people can be equally difficult to get to know, though once a bond of trust is formed, many in Winter will honor that bond even beyond death. 
 ## Map
 <iframe src="https://ruetooo.github.io/leaflet-map-simple/winterMap" width=80% height="400"></iframe>
+{ #2f478c}
+
 
 ## Stats
 - **Size:** 
 - **Points of Interest:**
+{ #8f37bc}
+
     - [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
     - [[Lumi Phoenixum\|Lumi Phoenixum]]
     - [[Krumholtz Mountains\|Krumholtz Mountains]]
@@ -30,9 +34,9 @@ The people of Winter are, by and large, very private. Many Winter communities ar
 { .block-language-dataview}
 ### Archfey
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Inta\|Inta]]
+- [[Entities/NPCs/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Ithliyian\|Ithliyian]]
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Shirosa\|Shirosa]]
-- [[Entities/NPCs/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Yatu\|Yatu]]
 
 { .block-language-dataview}
