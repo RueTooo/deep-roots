@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/template-folder/card-dataview-table-template/"}
 ---
 
-
+DOES NOT WORK ON DIGITAL GARDEN
 > [!cards|dataview]
 >  | "**"+ file.link + "**"                                                   | embed(link(image))                                               |
 > | ------------------------------------------------------------------------ | ---------------------------------------------------------------- |
@@ -28,7 +28,7 @@
 > [!cards|dataview] 
 >  | file.link + "<br>" + file.mtime                                                                     | embed(link(image))                                               |
 > | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-> | [[Entities/Player Characters/Aerendyl\|Aerendyl]]<br>9:25 PM - February 27, 2024                 | ![[Images/Creatures/Aerendyl_.png\|Aerendyl_.png]]               |
+> | [[Entities/Player Characters/Aerendyl\|Aerendyl]]<br>12:07 PM - February 28, 2024                | ![[Images/Creatures/Aerendyl_.png\|Aerendyl_.png]]               |
 > | [[Entities/Player Characters/Corvaux\|Corvaux]]<br>8:06 AM - February 28, 2024                   | ![[Images/Creatures/Corvaux1 card.png\|Corvaux1 card.png]]       |
 > | [[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]<br>8:07 AM - February 28, 2024 | ![[Images/Creatures/luck_of_the_draw.png\|luck_of_the_draw.png]] |
 > | [[Entities/Player Characters/Mirri\|Mirri]]<br>8:06 AM - February 28, 2024                       | ![[Images/Creatures/Mirri.png\|Mirri.png]]                       |
