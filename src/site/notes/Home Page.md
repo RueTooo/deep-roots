@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="DM" data-href="DM" href="DM" class="internal-link" target="_blank" rel="noopener">DM</a>, Session 19</div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/Welcome, Chad.md" data-href="Quotes/Welcome, Chad.md" href="Quotes/Welcome, Chad.md" class="internal-link" target="_blank" rel="noopener">Welcome, Chad</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">??, Session 19</div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/This week on 'Oh fuck, Zaq's here.'.md" data-href="Quotes/This week on 'Oh fuck, Zaq's here.'.md" href="Quotes/This week on 'Oh fuck, Zaq's here.'.md" class="internal-link" target="_blank" rel="noopener">This week on 'Oh fuck, Zaq's here.'</a></p>
 </div></div></span></span>
 
 **Player Characters**
@@ -29,34 +29,38 @@
 > 
 > | Points of Interest |
 > | ---- |
->  - [[Locations/Feywild/Winter/Scarlet Maple\|Scarlet Maple]]
-> - [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
+>  - [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
+> - [[Locations/Feywild/Winter/Scarlet Maple\|Scarlet Maple]]
 > 
 { .block-language-dataview}
-> 
-> ##### [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]], [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
+> ###### [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]], [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
 > <iframe src="https://ruetooo.github.io/leaflet-map-simple/sylvariMap" width=100% height="400"></iframe>
 > 
 > | Points of Interest |
 > | ---- |
->  - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sablehaven\|Sablehaven]]
-> - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Ironwood Citadel\|Ironwood Citadel]]
+>  - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Ironwood Citadel\|Ironwood Citadel]]
+> - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sablehaven\|Sablehaven]]
 > - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Court of Aetheria\|Court of Aetheria]]
 > 
 { .block-language-dataview}
 
-
+**Lore**
+>  - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
+> - [[Lore/Spellplague\|Spellplague]]
+> - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
+> 
+{ .block-language-dataview}
 
 **Big Players**
-> [!tip]
->  - [[Entities/NPCs/Titans/Eristalon\|Eristalon]]
-> - [[Entities/NPCs/Titans/Hallow\|Hallow]]
-> - [[Entities/NPCs/Titans/Lady Sunnis\|Lady Sunnis]]
-> - [[Entities/NPCs/Titans/Demons/Thousand-Eyed Deceiver\|Thousand-Eyed Deceiver]]
-> - [[Entities/NPCs/Titans/Demons/Orchus\|Orchus]]
-> - [[Entities/NPCs/Titans/Dragon Spirits/Pyra\|Pyra]]
-> - [[Entities/NPCs/Titans/Dragon Spirits/Nexeus\|Nexeus]]
-> - [[Entities/NPCs/Titans/Dragon Spirits/Gereth\|Gereth]]
+> [!tldr]
+>  - [[Entities/NPCs/Titans/Session 20\|Session 20]]
+> - [[Entities/NPCs/Titans/Winter Court/Monarchs/Frost\|Frost]]
+> - [[Entities/NPCs/Titans/Winter Court/Monarchs/Thaw\|Thaw]]
+> - [[Entities/NPCs/Titans/Winter Court/Archfey/Yatu\|Yatu]]
+> - [[Entities/NPCs/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
+> - [[Entities/NPCs/Titans/Winter Court/Archfey/Shirosa\|Shirosa]]
+> - [[Entities/NPCs/Titans/Winter Court/Archfey/Ithliyian\|Ithliyian]]
+> - [[Entities/NPCs/Titans/Winter Court/Archfey/Inta\|Inta]]
 > 
 { .block-language-dataview}
 
