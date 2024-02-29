@@ -34,9 +34,9 @@ The people of Winter are, by and large, very private. Many Winter communities ar
 { .block-language-dataview}
 ### Archfey
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Inta\|Inta]]
-- [[Entities/NPCs/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Ithliyian\|Ithliyian]]
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Shirosa\|Shirosa]]
+- [[Entities/NPCs/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Yatu\|Yatu]]
 
 { .block-language-dataview}
