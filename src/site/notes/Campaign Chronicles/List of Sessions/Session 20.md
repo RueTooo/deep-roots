@@ -5,8 +5,7 @@
 
 | Name                                                                       | Type  |
 | -------------------------------------------------------------------------- | ----- |
-| [[Quotes/Corvaux's definitely looking.\|Corvaux's definitely looking.]] | Quote |
 | [[Quotes/Sprite!\|Sprite!]]                                             | Quote |
-| [[Quotes/Wee\|Wee]]                                                     | Quote |
+| [[Quotes/Corvaux's definitely looking.\|Corvaux's definitely looking.]] | Quote |
 
 { .block-language-dataview}
