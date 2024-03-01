@@ -17,8 +17,8 @@ Each forest has a certain amount of autonomy, but all are united in their deep r
 Each forest, ruled by a different archfey, has their own focus and specialty ranging from herbal remedies to forestry and cultivation, to plane shifting and communicating with creatures of all shapes and origins.
 - [[Entities/NPCs/Titans/Autumn Court/Archfey/Calyptica\|Calyptica]]
 - [[Entities/NPCs/Titans/Autumn Court/Archfey/Fitzroya\|Fitzroya]]
-- [[Entities/NPCs/Titans/Autumn Court/Archfey/Thuja\|Thuja]]
 - [[Entities/NPCs/Titans/Autumn Court/Archfey/Adansonia\|Adansonia]]
+- [[Entities/NPCs/Titans/Autumn Court/Archfey/Thuja\|Thuja]]
 - [[Entities/NPCs/Titans/Autumn Court/Archfey/Samara\|Samara]]
 
 { .block-language-dataview}
