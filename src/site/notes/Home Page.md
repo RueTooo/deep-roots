@@ -4,13 +4,13 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Aerendyl.md" data-href="Entities/Player Characters/Aerendyl.md" href="Entities/Player Characters/Aerendyl.md" class="internal-link" target="_blank" rel="noopener">Aerendyl</a>, Session 6</div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/I love rock music! (starts bashing a load of rocks together).md" data-href="Quotes/I love rock music! (starts bashing a load of rocks together).md" href="Quotes/I love rock music! (starts bashing a load of rocks together).md" class="internal-link" target="_blank" rel="noopener">I love rock music! (starts bashing a load of rocks together)</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Luck of the Draw.md" data-href="Entities/Player Characters/Luck of the Draw.md" href="Entities/Player Characters/Luck of the Draw.md" class="internal-link" target="_blank" rel="noopener">Luck of the Draw</a>, Session 19</div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/I don't know many smart tall people..md" data-href="Quotes/I don't know many smart tall people..md" href="Quotes/I don't know many smart tall people..md" class="internal-link" target="_blank" rel="noopener">I don't know many smart tall people.</a></p>
 </div></div></span></span>
 
 **Player Characters**
 > [!kanban|no-t] 
->  -  **[[Entities/Player Characters/Aerendyl\|Aerendyl]]** 
+>  - **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**
 > 	- ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png)
 > - **[[Entities/Player Characters/Corvaux\|Corvaux]]**
 > 	- ![Corvaux1 card.png](/img/user/Images/Creatures/Corvaux1%20card.png)
@@ -29,8 +29,8 @@
 > 
 > | Points of Interest |
 > | ---- |
->  - [[Locations/Feywild/Winter/Scarlet Maple\|Scarlet Maple]]
-> - [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
+>  - [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
+> - [[Locations/Feywild/Winter/Scarlet Maple\|Scarlet Maple]]
 > 
 { .block-language-dataview}
 > ###### [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]], [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
@@ -38,8 +38,8 @@
 > 
 > | Points of Interest |
 > | ---- |
->  - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sablehaven\|Sablehaven]]
-> - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Ironwood Citadel\|Ironwood Citadel]]
+>  - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Ironwood Citadel\|Ironwood Citadel]]
+> - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sablehaven\|Sablehaven]]
 > - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Court of Aetheria\|Court of Aetheria]]
 > 
 { .block-language-dataview}
@@ -106,14 +106,15 @@ These five Archfey are intrinsically linked to the land and the weave that flows
 
 </div></div>
 
+> 
 
 
 
 > | **Lore** |
 > | ---- |
->  - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
-> - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
+>  - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
 > - [[Lore/Spellplague\|Spellplague]]
+> - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
 > 
 { .block-language-dataview}
 
