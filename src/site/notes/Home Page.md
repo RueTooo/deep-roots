@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">??, <a data-href="Session 16" href="Session 16" class="internal-link" target="_blank" rel="noopener">Session 16</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/I'm going to hold Healing Word until Mirri does something dumb..md" data-href="Quotes/I'm going to hold Healing Word until Mirri does something dumb..md" href="Quotes/I'm going to hold Healing Word until Mirri does something dumb..md" class="internal-link" target="_blank" rel="noopener">I'm going to hold Healing Word until Mirri does something dumb.</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Larrikin, <a data-href="Session 13" href="Session 13" class="internal-link" target="_blank" rel="noopener">Session 13</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/Mirri invented Uno..md" data-href="Quotes/Mirri invented Uno..md" href="Quotes/Mirri invented Uno..md" class="internal-link" target="_blank" rel="noopener">Mirri invented Uno.</a></p>
 </div></div></span></span>
 
 
@@ -24,23 +24,8 @@
 > [!kanban]- Where in the Worlds 
 > - [[Locations/Feywild/Winter/Winter\|Winter]], [[Locations/Feywild/Feywild\|Feywild]] 
 > 	- <iframe src="https://ruetooo.github.io/leaflet-map-simple/winterMap" width=100% height="400"></iframe>
-> 	
-> 	| Points of Interest |
-> 	| ---- |
-> 	 - [[Locations/Feywild/Winter/Scarlet Maple\|Scarlet Maple]]
-> - [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
-> 
-{ .block-language-dataview}
 > - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]], [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
 > 	- <iframe src="https://ruetooo.github.io/leaflet-map-simple/sylvariMap" width=100% height="400"></iframe>
-> 	
-> 	| Points of Interest |
-> 	| ---- |
-> 	 - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sablehaven\|Sablehaven]]
-> - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Ironwood Citadel\|Ironwood Citadel]]
-> - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Court of Aetheria\|Court of Aetheria]]
-> 
-{ .block-language-dataview}
 
 
 > [!abstract]- [[Grimkin's Guide to the Winter Court\|Grimkin's Guide to the Winter Court]]
