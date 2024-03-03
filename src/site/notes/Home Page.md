@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Mirri.md" data-href="Entities/Player Characters/Mirri.md" href="Entities/Player Characters/Mirri.md" class="internal-link" target="_blank" rel="noopener">Mirri</a>, <a data-href="Session 16" href="Session 16" class="internal-link" target="_blank" rel="noopener">Session 16</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/Let's go through the established literature before writing our own..md" data-href="Quotes/Let's go through the established literature before writing our own..md" href="Quotes/Let's go through the established literature before writing our own..md" class="internal-link" target="_blank" rel="noopener">Let's go through the established literature before writing our own.</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">DM, <a data-href="Session 8" href="Session 8" class="internal-link" target="_blank" rel="noopener">Session 8</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/This is a very different story when everything's getting smashed..md" data-href="Quotes/This is a very different story when everything's getting smashed..md" href="Quotes/This is a very different story when everything's getting smashed..md" class="internal-link" target="_blank" rel="noopener">This is a very different story when everything's getting smashed.</a></p>
 </div></div></span></span>
 
 **Player Characters**
@@ -21,23 +21,22 @@
 > - **[[Entities/Player Characters/Runa\|Runa]]**
 > 	- ![Runa1 card.png](/img/user/Images/Creatures/Runa1%20card.png)
 
-> [!kanban]- 
->  
-> ###### [[Locations/Feywild/Winter/Winter\|Winter]], [[Locations/Feywild/Feywild\|Feywild]] 
-> <iframe src="https://ruetooo.github.io/leaflet-map-simple/winterMap" width=100% height="400"></iframe>
+> [!kanban]- Where in the Worlds 
+> - [[Locations/Feywild/Winter/Winter\|Winter]], [[Locations/Feywild/Feywild\|Feywild]] 
+> 	- <iframe src="https://ruetooo.github.io/leaflet-map-simple/winterMap" width=100% height="400"></iframe>
 > 
-> | Points of Interest |
-> | ---- |
->  - [[Locations/Feywild/Winter/Scarlet Maple\|Scarlet Maple]]
+> 	| Points of Interest |
+> 	| ---- |
+> 	 - [[Locations/Feywild/Winter/Scarlet Maple\|Scarlet Maple]]
 > - [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
 > 
 { .block-language-dataview}
-> ###### [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]], [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
-> <iframe src="https://ruetooo.github.io/leaflet-map-simple/sylvariMap" width=100% height="400"></iframe>
+> - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]], [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
+> 	- <iframe src="https://ruetooo.github.io/leaflet-map-simple/sylvariMap" width=100% height="400"></iframe>
 > 
-> | Points of Interest |
-> | ---- |
->  - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sablehaven\|Sablehaven]]
+> 	| Points of Interest |
+> 	| ---- |
+> 	 - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sablehaven\|Sablehaven]]
 > - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Ironwood Citadel\|Ironwood Citadel]]
 > - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Court of Aetheria\|Court of Aetheria]]
 > 
