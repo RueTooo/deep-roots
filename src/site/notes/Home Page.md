@@ -4,33 +4,32 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Mirri.md" data-href="Entities/Player Characters/Mirri.md" href="Entities/Player Characters/Mirri.md" class="internal-link" target="_blank" rel="noopener">Mirri</a>, <a data-href="Session 17" href="Session 17" class="internal-link" target="_blank" rel="noopener">Session 17</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/You can't keep borrowing grief from the future..md" data-href="Quotes/You can't keep borrowing grief from the future..md" href="Quotes/You can't keep borrowing grief from the future..md" class="internal-link" target="_blank" rel="noopener">You can't keep borrowing grief from the future.</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Mirri.md" data-href="Entities/Player Characters/Mirri.md" href="Entities/Player Characters/Mirri.md" class="internal-link" target="_blank" rel="noopener">Mirri</a>, <a data-href="Session 16" href="Session 16" class="internal-link" target="_blank" rel="noopener">Session 16</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/Let's go through the established literature before writing our own..md" data-href="Quotes/Let's go through the established literature before writing our own..md" href="Quotes/Let's go through the established literature before writing our own..md" class="internal-link" target="_blank" rel="noopener">Let's go through the established literature before writing our own.</a></p>
 </div></div></span></span>
 
 **Player Characters**
 > [!kanban|no-t] 
->  - [[Entities/Player Characters/Aerendyl\|Aerendyl]]
+>  - **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**
 > 	- ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png)
 > - **[[Entities/Player Characters/Corvaux\|Corvaux]]**
 > 	- ![Corvaux1 card.png](/img/user/Images/Creatures/Corvaux1%20card.png)
 > - **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]**
 > 	- ![luck_of_the_draw.png](/img/user/Images/Creatures/luck_of_the_draw.png)
-> - **[[Entities/Player Characters/Mirri\|Mirri]]** 
+> - **[[Entities/Player Characters/Mirri\|Entities/Player Characters/Mirri]]** 
 > 	- ![Mirri card.png](/img/user/Images/Creatures/Mirri%20card.png) 
 > - **[[Entities/Player Characters/Runa\|Runa]]**
 > 	- ![Runa1 card.png](/img/user/Images/Creatures/Runa1%20card.png)
 
-> [!infobox]- 
->  ###### Where in the Worlds...
-> 
+> [!kanban]- 
+>  
 > ###### [[Locations/Feywild/Winter/Winter\|Winter]], [[Locations/Feywild/Feywild\|Feywild]] 
 > <iframe src="https://ruetooo.github.io/leaflet-map-simple/winterMap" width=100% height="400"></iframe>
 > 
 > | Points of Interest |
 > | ---- |
->  - [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
-> - [[Locations/Feywild/Winter/Scarlet Maple\|Scarlet Maple]]
+>  - [[Locations/Feywild/Winter/Scarlet Maple\|Scarlet Maple]]
+> - [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
 > 
 { .block-language-dataview}
 > ###### [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]], [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
@@ -38,9 +37,9 @@
 > 
 > | Points of Interest |
 > | ---- |
->  - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Court of Aetheria\|Court of Aetheria]]
+>  - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sablehaven\|Sablehaven]]
 > - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Ironwood Citadel\|Ironwood Citadel]]
-> - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sablehaven\|Sablehaven]]
+> - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Court of Aetheria\|Court of Aetheria]]
 > 
 { .block-language-dataview}
 
@@ -172,9 +171,9 @@ These five Archfey are intrinsically linked to the land and the weave that flows
 
 > | **Lore** |
 > | ---- |
->  - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
+>  - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
+> - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
 > - [[Lore/Spellplague\|Spellplague]]
-> - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
 > 
 { .block-language-dataview}
 
