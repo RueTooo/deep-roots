@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="DM" data-href="DM" href="DM" class="internal-link" target="_blank" rel="noopener">DM</a>, <a data-href="Session 19" href="Session 19" class="internal-link" target="_blank" rel="noopener">Session 19</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/Welcome, Chad.md" data-href="Quotes/Welcome, Chad.md" href="Quotes/Welcome, Chad.md" class="internal-link" target="_blank" rel="noopener">Welcome, Chad</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Aerendyl.md" data-href="Entities/Player Characters/Aerendyl.md" href="Entities/Player Characters/Aerendyl.md" class="internal-link" target="_blank" rel="noopener">Aerendyl</a>, <a data-href="Session 20" href="Session 20" class="internal-link" target="_blank" rel="noopener">Session 20</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/Sprite!.md" data-href="Quotes/Sprite!.md" href="Quotes/Sprite!.md" class="internal-link" target="_blank" rel="noopener">Sprite!</a></p>
 </div></div></span></span>
 
 
