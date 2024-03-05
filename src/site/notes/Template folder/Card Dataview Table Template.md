@@ -42,8 +42,8 @@ DOES NOT WORK ON DIGITAL GARDEN
 | ![[Images/Creatures/Corvaux1 card.png\|100]]    | [[Entities/Player Characters/Corvaux\|Corvaux]]                       |
 | ![[Images/Creatures/luck_of_the_draw.png\|100]] | [[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]     |
 | ![[Images/Creatures/Mirri.png\|100]]            | [[Entities/Player Characters/Mirri\|Mirri]]                           |
-| \-                                              | [[Entities/Player Characters/Retired/Thaddeus Quill\|Thaddeus Quill]] |
 | \-                                              | [[Entities/Player Characters/Retired/Lady Liatris\|Lady Liatris]]     |
+| \-                                              | [[Entities/Player Characters/Retired/Thaddeus Quill\|Thaddeus Quill]] |
 | ![[Images/Creatures/Runa1 card.png\|100]]       | [[Entities/Player Characters/Runa\|Runa]]                             |
 
 { .block-language-dataview}
