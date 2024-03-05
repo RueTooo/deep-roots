@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Corvaux.md" data-href="Entities/Player Characters/Corvaux.md" href="Entities/Player Characters/Corvaux.md" class="internal-link" target="_blank" rel="noopener">Corvaux</a>, <a data-href="Session 0.5" href="Session 0.5" class="internal-link" target="_blank" rel="noopener">Session 0.5</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/The only thing that's a threat is that thing in the sky (the sun)..md" data-href="Quotes/The only thing that's a threat is that thing in the sky (the sun)..md" href="Quotes/The only thing that's a threat is that thing in the sky (the sun)..md" class="internal-link" target="_blank" rel="noopener">The only thing that's a threat is that thing in the sky (the sun).</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Aerendyl.md" data-href="Entities/Player Characters/Aerendyl.md" href="Entities/Player Characters/Aerendyl.md" class="internal-link" target="_blank" rel="noopener">Aerendyl</a>, <a data-href="Session 8" href="Session 8" class="internal-link" target="_blank" rel="noopener">Session 8</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/Take the scenic route, asshole..md" data-href="Quotes/Take the scenic route, asshole..md" href="Quotes/Take the scenic route, asshole..md" class="internal-link" target="_blank" rel="noopener">Take the scenic route, asshole.</a></p>
 </div></div></span></span>
 
 
@@ -92,8 +92,8 @@ These five Archfey are intrinsically linked to the land and the weave that flows
 
 > | **Lore** |
 > | ---- |
->  - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
-> - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
+>  - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
+> - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
 > - [[Lore/Spellplague\|Spellplague]]
 > 
 { .block-language-dataview}
