@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Aerendyl.md" data-href="Entities/Player Characters/Aerendyl.md" href="Entities/Player Characters/Aerendyl.md" class="internal-link" target="_blank" rel="noopener">Aerendyl</a>, <a data-href="Session 14" href="Session 14" class="internal-link" target="_blank" rel="noopener">Session 14</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/You don't look fine.md" data-href="Quotes/You don't look fine.md" href="Quotes/You don't look fine.md" class="internal-link" target="_blank" rel="noopener">You don't look fine</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Dexanteros.md" data-href="Dexanteros.md" href="Dexanteros.md" class="internal-link" target="_blank" rel="noopener">Dexanteros</a>, <a data-href="Session 13" href="Session 13" class="internal-link" target="_blank" rel="noopener">Session 13</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/Devils cannot lie, but that does not mean that they cannot deceive..md" data-href="Quotes/Devils cannot lie, but that does not mean that they cannot deceive..md" href="Quotes/Devils cannot lie, but that does not mean that they cannot deceive..md" class="internal-link" target="_blank" rel="noopener">Devils cannot lie, but that does not mean that they cannot deceive.</a></p>
 </div></div></span></span>
 
 
