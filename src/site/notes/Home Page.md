@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Runa.md" data-href="Entities/Player Characters/Runa.md" href="Entities/Player Characters/Runa.md" class="internal-link" target="_blank" rel="noopener">Runa</a>, <a data-href="Session 17" href="Session 17" class="internal-link" target="_blank" rel="noopener">Session 17</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/What the hell is a therapist?.md" data-href="Quotes/What the hell is a therapist?.md" href="Quotes/What the hell is a therapist?.md" class="internal-link" target="_blank" rel="noopener">What the hell is a therapist?</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Retired/Thaddeus Quill.md" data-href="Entities/Player Characters/Retired/Thaddeus Quill.md" href="Entities/Player Characters/Retired/Thaddeus Quill.md" class="internal-link" target="_blank" rel="noopener">Thaddeus</a>, <a data-href="Session 7" href="Session 7" class="internal-link" target="_blank" rel="noopener">Session 7</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/If you want to die, leave the room!.md" data-href="Quotes/If you want to die, leave the room!.md" href="Quotes/If you want to die, leave the room!.md" class="internal-link" target="_blank" rel="noopener">If you want to die, leave the room!</a></p>
 </div></div></span></span>
 
 
