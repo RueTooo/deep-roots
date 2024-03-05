@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Aerendyl.md" data-href="Entities/Player Characters/Aerendyl.md" href="Entities/Player Characters/Aerendyl.md" class="internal-link" target="_blank" rel="noopener">Aerendyl</a>, <a data-href="Session 8" href="Session 8" class="internal-link" target="_blank" rel="noopener">Session 8</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/Take the scenic route, asshole..md" data-href="Quotes/Take the scenic route, asshole..md" href="Quotes/Take the scenic route, asshole..md" class="internal-link" target="_blank" rel="noopener">Take the scenic route, asshole.</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Sam, <a data-href="Session 11" href="Session 11" class="internal-link" target="_blank" rel="noopener">Session 11</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/The 108th layer - the Andrew Lloyd Webber layer.md" data-href="Quotes/The 108th layer - the Andrew Lloyd Webber layer.md" href="Quotes/The 108th layer - the Andrew Lloyd Webber layer.md" class="internal-link" target="_blank" rel="noopener">The 108th layer - the Andrew Lloyd Webber layer</a></p>
 </div></div></span></span>
 
 
