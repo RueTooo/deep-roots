@@ -19,11 +19,11 @@ Add more columns
 > [!cards|dataview]
 >  | Column Name                                                              |
 > | ------------------------------------------------------------------------ |
-> | **[[Entities/Player Characters/Runa\|Runa]]**                         |
-> | **[[Entities/Player Characters/Mirri\|Mirri]]**                       |
-> | **[[Entities/Player Characters/Corvaux\|Corvaux]]**                   |
 > | **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**                 |
+> | **[[Entities/Player Characters/Corvaux\|Corvaux]]**                   |
 > | **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]** |
+> | **[[Entities/Player Characters/Mirri\|Mirri]]**                       |
+> | **[[Entities/Player Characters/Runa\|Runa]]**                         |
 > 
 { .block-language-dataview}
 
