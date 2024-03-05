@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/grimkin-s-guide-to-the-winter-court/"}
 ---
 
-
 > [!Infobox]
 > ![Winter_map.jpg](/img/user/Images/Maps/Winter_map.jpg)
 
