@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Corvaux.md" data-href="Entities/Player Characters/Corvaux.md" href="Entities/Player Characters/Corvaux.md" class="internal-link" target="_blank" rel="noopener">Corvaux</a>, <a data-href="Session null" href="Session null" class="internal-link" target="_blank" rel="noopener">Session null</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/I gave you a chance to talk. Perish..md" data-href="Quotes/I gave you a chance to talk. Perish..md" href="Quotes/I gave you a chance to talk. Perish..md" class="internal-link" target="_blank" rel="noopener">I gave you a chance to talk. Perish.</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Aerendyl.md" data-href="Entities/Player Characters/Aerendyl.md" href="Entities/Player Characters/Aerendyl.md" class="internal-link" target="_blank" rel="noopener">Aerendyl</a>, <a data-href="Session 20" href="Session 20" class="internal-link" target="_blank" rel="noopener">Session 20</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/Wee.md" data-href="Quotes/Wee.md" href="Quotes/Wee.md" class="internal-link" target="_blank" rel="noopener">Wee</a></p>
 </div></div></span></span>
 
 
