@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Corvaux.md" data-href="Entities/Player Characters/Corvaux.md" href="Entities/Player Characters/Corvaux.md" class="internal-link" target="_blank" rel="noopener">Corvaux</a>, <a data-href="Session 11" href="Session 11" class="internal-link" target="_blank" rel="noopener">Session 11</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/You're a terrible mage, Thaddeus.md" data-href="Quotes/You're a terrible mage, Thaddeus.md" href="Quotes/You're a terrible mage, Thaddeus.md" class="internal-link" target="_blank" rel="noopener">You're a terrible mage, Thaddeus</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">??, <a data-href="Session 19" href="Session 19" class="internal-link" target="_blank" rel="noopener">Session 19</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/This week on 'Oh fuck, Zaq's here.'.md" data-href="Quotes/This week on 'Oh fuck, Zaq's here.'.md" href="Quotes/This week on 'Oh fuck, Zaq's here.'.md" class="internal-link" target="_blank" rel="noopener">This week on 'Oh fuck, Zaq's here.'</a></p>
 </div></div></span></span>
 
 
