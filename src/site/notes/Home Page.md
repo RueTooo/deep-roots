@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Zaq, <a data-href="Session 19" href="Session 19" class="internal-link" target="_blank" rel="noopener">Session 19</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/Yeah, I don't seem to have enough teeth in my inventory..md" data-href="Quotes/Yeah, I don't seem to have enough teeth in my inventory..md" href="Quotes/Yeah, I don't seem to have enough teeth in my inventory..md" class="internal-link" target="_blank" rel="noopener">Yeah, I don't seem to have enough teeth in my inventory.</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="DM" data-href="DM" href="DM" class="internal-link" target="_blank" rel="noopener">DM</a>, <a data-href="Session 19" href="Session 19" class="internal-link" target="_blank" rel="noopener">Session 19</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/Welcome, Chad.md" data-href="Quotes/Welcome, Chad.md" href="Quotes/Welcome, Chad.md" class="internal-link" target="_blank" rel="noopener">Welcome, Chad</a></p>
 </div></div></span></span>
 
 
@@ -28,9 +28,9 @@
 > 	- <iframe src="https://ruetooo.github.io/leaflet-map-simple/sylvariMap" width=100% height="400"></iframe>
 
 
-> [!abstract]- [[Grimkin's Guide to the Winter Court\|Grimkin's Guide to the Winter Court]]
+> [!abstract]- [[Lore/Grimkin's Guide to the Winter Court\|Grimkin's Guide to the Winter Court]]
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/grimkin-s-guide-to-the-winter-court/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/lore/grimkin-s-guide-to-the-winter-court/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -48,7 +48,7 @@ Winter is made up of dwarves, elves (especially Winter Eladrin, Moon Elves and S
 
 > [!recite] While in the Feywild: 
 
-- Do not expect [[Languages/Common\|Common]] to be spoken - many Fey will scorn those who travel to their fair realm expecting to be catered to as on the material plane. (See the back of this booklet for [[Grimkin's Guide to the Winter Court#^14fd2b\|10 useful Sylvan phrases]]!)
+- Do not expect [[Languages/Common\|Common]] to be spoken - many Fey will scorn those who travel to their fair realm expecting to be catered to as on the material plane. (See the back of this booklet for [[Lore/Grimkin's Guide to the Winter Court#^14fd2b\|10 useful Sylvan phrases]]!)
 - Use caution when making deals. Not every fey is looking to make off with your firstborn - but **words have power**. Ignorance will not excuse or exempt you from a promise made. 
 - Leave behind your concept of living beings vs objects. In the fey courts, brooks, boulders, branches and brambles _may_ have sapience. Take no living wood in a forest without leaving a gift, be respectful when drawing water from a spring or well. In other words, err on the side of respect. It is not often that a mountain will wake due to disrespectful footsteps, but it is not unheard of.
 
@@ -92,9 +92,10 @@ These five Archfey are intrinsically linked to the land and the weave that flows
 
 > | **Lore** |
 > | ---- |
->  - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
-> - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
+>  - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
+> - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
 > - [[Lore/Spellplague\|Spellplague]]
+> - [[Lore/Grimkin's Guide to the Winter Court\|Grimkin's Guide to the Winter Court]]
 > 
 { .block-language-dataview}
 
