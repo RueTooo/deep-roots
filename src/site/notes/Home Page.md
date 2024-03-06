@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Mirri.md" data-href="Entities/Player Characters/Mirri.md" href="Entities/Player Characters/Mirri.md" class="internal-link" target="_blank" rel="noopener">Mirri</a>, <a data-href="Session 16" href="Session 16" class="internal-link" target="_blank" rel="noopener">Session 16</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/Let's go through the established literature before writing our own..md" data-href="Quotes/Let's go through the established literature before writing our own..md" href="Quotes/Let's go through the established literature before writing our own..md" class="internal-link" target="_blank" rel="noopener">Let's go through the established literature before writing our own.</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Luck of the Draw.md" data-href="Entities/Player Characters/Luck of the Draw.md" href="Entities/Player Characters/Luck of the Draw.md" class="internal-link" target="_blank" rel="noopener">Luck of the Draw</a>, <a data-href="Session 21" href="Session 21" class="internal-link" target="_blank" rel="noopener">Session 21</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/&quot;I have no intention of moving. STAB!&quot;.md" data-href="Quotes/&quot;I have no intention of moving. STAB!&quot;.md" href="Quotes/&quot;I have no intention of moving. STAB!&quot;.md" class="internal-link" target="_blank" rel="noopener">"I have no intention of moving. STAB!"</a></p>
 </div></div></span></span>
 
 
@@ -58,7 +58,6 @@ Winter is made up of dwarves, elves (especially Winter Eladrin, Moon Elves and S
 - Winter's strength is drawn from its close ties to the elemental planes, and the courtiers will defend the balance with their lives. Events that disrupt the careful harmony will not be tolerated. No matter their private allegiances, all able Winterlings will stand together against whatever threatens their Court and Realm. 
 - Unlike the other Seasonal Courts, Winter has a...looser relationship with death and spirits. It is not unusual to meet a reborn or halfdead - these are intelligent beings that exist in a sort of different timeline. Additionally, there are multiple festivals and holy days dedicated to greeting spirits of those who have passed on long ago. Mausoleums and tombs are frequently visited, rather than tucked away and forgotten. If you come to the Winter to try to plunder treasure from cairns and crypts, you will be unpleasantly surprised. 
 
-
 > [!Recite] Archfey of the Winter Court: 
 
 **[[Entities/NPCs/Titans/Winter Court/Archfey/Ithiliyan\|Ithiliyan]]** personifies compassion and hospitality, embodying the most generous side of the elemental forces that define the transition between the bitter cold and the hopeful dawn. They dwell in the Ghastalphan Mountains, a natural and magical border between the Winter and Spring courts.
@@ -72,7 +71,6 @@ Winter is made up of dwarves, elves (especially Winter Eladrin, Moon Elves and S
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Inta\|Inta]] arrives as a sign that the deep cold has passed - that the bitterest temperatures are behind us, and that spring is not far off. Her arrival begins the first melt, as glacial streams and [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]'s fiery maw send columns of steam up into the air, all the way to [[Locations/Feywild/Solanovis/Solanovis\|Solanovis]].
 
 These five Archfey are intrinsically linked to the land and the weave that flows the Winter. In front of [[Entities/NPCs/Titans/Winter Court/Monarchs/Frost\|Frost]] and [[Entities/NPCs/Titans/Winter Court/Monarchs/Thaw\|Thaw]] they may quarrel amongst themselves at times, but all serve their twin rulers with complete adoration and unwavering loyalty.
-
 
 > [!example] Phrases in [[Languages/Sylvan\|Sylvan]]:  > 1. Hello my name is (blank) 
 > 2. Please/Thank you.
