@@ -25,7 +25,6 @@ Winter is made up of dwarves, elves (especially Winter Eladrin, Moon Elves and S
 - Winter's strength is drawn from its close ties to the elemental planes, and the courtiers will defend the balance with their lives. Events that disrupt the careful harmony will not be tolerated. No matter their private allegiances, all able Winterlings will stand together against whatever threatens their Court and Realm. 
 - Unlike the other Seasonal Courts, Winter has a...looser relationship with death and spirits. It is not unusual to meet a reborn or halfdead - these are intelligent beings that exist in a sort of different timeline. Additionally, there are multiple festivals and holy days dedicated to greeting spirits of those who have passed on long ago. Mausoleums and tombs are frequently visited, rather than tucked away and forgotten. If you come to the Winter to try to plunder treasure from cairns and crypts, you will be unpleasantly surprised. 
 
-
 > [!Recite] Archfey of the Winter Court: 
 
 **[[Entities/NPCs/Titans/Winter Court/Archfey/Ithiliyan\|Ithiliyan]]** personifies compassion and hospitality, embodying the most generous side of the elemental forces that define the transition between the bitter cold and the hopeful dawn. They dwell in the Ghastalphan Mountains, a natural and magical border between the Winter and Spring courts.
@@ -39,7 +38,6 @@ Winter is made up of dwarves, elves (especially Winter Eladrin, Moon Elves and S
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Inta\|Inta]] arrives as a sign that the deep cold has passed - that the bitterest temperatures are behind us, and that spring is not far off. Her arrival begins the first melt, as glacial streams and [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]'s fiery maw send columns of steam up into the air, all the way to [[Locations/Feywild/Solanovis/Solanovis\|Solanovis]].
 
 These five Archfey are intrinsically linked to the land and the weave that flows the Winter. In front of [[Entities/NPCs/Titans/Winter Court/Monarchs/Frost\|Frost]] and [[Entities/NPCs/Titans/Winter Court/Monarchs/Thaw\|Thaw]] they may quarrel amongst themselves at times, but all serve their twin rulers with complete adoration and unwavering loyalty.
-
 
 > [!example] Phrases in [[Languages/Sylvan\|Sylvan]]: 
 { #14fd2b}
