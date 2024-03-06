@@ -28,16 +28,16 @@ The people of Winter are, by and large, very private. Many Winter communities ar
 
 ## Politics
 ### Monarchs
-- [[Entities/NPCs/Titans/Winter Court/Monarchs/Thaw\|Thaw]]
 - [[Entities/NPCs/Titans/Winter Court/Monarchs/Frost\|Frost]]
+- [[Entities/NPCs/Titans/Winter Court/Monarchs/Thaw\|Thaw]]
 
 { .block-language-dataview}
 ### Archfey
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Inta\|Inta]]
-- [[Entities/NPCs/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
-- [[Entities/NPCs/Titans/Winter Court/Archfey/Shirosa\|Shirosa]]
-- [[Entities/NPCs/Titans/Winter Court/Archfey/Yatu\|Yatu]]
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Ithiliyan\|Ithiliyan]]
+- [[Entities/NPCs/Titans/Winter Court/Archfey/Shirosa\|Shirosa]]
+- [[Entities/NPCs/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
+- [[Entities/NPCs/Titans/Winter Court/Archfey/Yatu\|Yatu]]
 
 { .block-language-dataview}
 These five Archfey are intrinsically linked to the land and the weave that flows the Winter. In front of **[[Entities/NPCs/Titans/Winter Court/Monarchs/Frost\|Frost]]** and **[[Entities/NPCs/Titans/Winter Court/Monarchs/Thaw\|Thaw]]** they may quarrel amongst themselves at times, but all serve their twin rulers with complete adoration and unwavering loyalty. With the twin monarchs' leadership, balance is maintained despite the chaos of these primal forces. 
