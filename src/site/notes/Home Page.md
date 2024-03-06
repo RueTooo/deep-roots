@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Larrikin, <a data-href="Session 13" href="Session 13" class="internal-link" target="_blank" rel="noopener">Session 13</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/Mirri invented Uno..md" data-href="Quotes/Mirri invented Uno..md" href="Quotes/Mirri invented Uno..md" class="internal-link" target="_blank" rel="noopener">Mirri invented Uno.</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">DM, <a data-href="Session 8" href="Session 8" class="internal-link" target="_blank" rel="noopener">Session 8</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/This is a very different story when everything's getting smashed..md" data-href="Quotes/This is a very different story when everything's getting smashed..md" href="Quotes/This is a very different story when everything's getting smashed..md" class="internal-link" target="_blank" rel="noopener">This is a very different story when everything's getting smashed.</a></p>
 </div></div></span></span>
 
 
@@ -92,9 +92,9 @@ These five Archfey are intrinsically linked to the land and the weave that flows
 
 > | **Lore** |
 > | ---- |
->  - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
+>  - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
+> - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
 > - [[Lore/Spellplague\|Spellplague]]
-> - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
 > 
 { .block-language-dataview}
 
