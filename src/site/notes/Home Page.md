@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="DM" data-href="DM" href="DM" class="internal-link" target="_blank" rel="noopener">DM</a>, <a data-href="Session 19" href="Session 19" class="internal-link" target="_blank" rel="noopener">Session 19</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/Welcome, Chad.md" data-href="Quotes/Welcome, Chad.md" href="Quotes/Welcome, Chad.md" class="internal-link" target="_blank" rel="noopener">Welcome, Chad</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Aerendyl.md" data-href="Entities/Player Characters/Aerendyl.md" href="Entities/Player Characters/Aerendyl.md" class="internal-link" target="_blank" rel="noopener">Aerendyl</a>, <a data-href="Session 6" href="Session 6" class="internal-link" target="_blank" rel="noopener">Session 6</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/I love rock music! (starts bashing a load of rocks together).md" data-href="Quotes/I love rock music! (starts bashing a load of rocks together).md" href="Quotes/I love rock music! (starts bashing a load of rocks together).md" class="internal-link" target="_blank" rel="noopener">I love rock music! (starts bashing a load of rocks together)</a></p>
 </div></div></span></span>
 
 
@@ -92,10 +92,10 @@ These five Archfey are intrinsically linked to the land and the weave that flows
 
 > | **Lore** |
 > | ---- |
->  - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
+>  - [[Lore/Grimkin's Guide to the Winter Court\|Grimkin's Guide to the Winter Court]]
 > - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
 > - [[Lore/Spellplague\|Spellplague]]
-> - [[Lore/Grimkin's Guide to the Winter Court\|Grimkin's Guide to the Winter Court]]
+> - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
 > 
 { .block-language-dataview}
 
