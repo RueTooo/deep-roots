@@ -28,13 +28,13 @@ The people of Winter are, by and large, very private. Many Winter communities ar
 
 ## Politics
 ### Monarchs
-- [[Entities/NPCs/Titans/Winter Court/Monarchs/Frost\|Frost]]
 - [[Entities/NPCs/Titans/Winter Court/Monarchs/Thaw\|Thaw]]
+- [[Entities/NPCs/Titans/Winter Court/Monarchs/Frost\|Frost]]
 
 { .block-language-dataview}
 ### Archfey
-- [[Entities/NPCs/Titans/Winter Court/Archfey/Ithiliyan\|Ithiliyan]]
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Inta\|Inta]]
+- [[Entities/NPCs/Titans/Winter Court/Archfey/Ithiliyan\|Ithiliyan]]
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Shirosa\|Shirosa]]
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Umibuki\|Umibuki]]
 - [[Entities/NPCs/Titans/Winter Court/Archfey/Yatu\|Yatu]]
