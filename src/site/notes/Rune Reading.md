@@ -3,4 +3,5 @@
 ---
 
 
-<iframe src="https://ruetoo.github.io/deep-roots/runeReading.html" width=100% height="500"></iframe>
+<iframe src="https://ruetooo.github.io/leaflet-map-simple/runeReading.html" width=100% height="500"></iframe>
+
