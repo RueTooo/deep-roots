@@ -28,8 +28,8 @@ The people of Winter are, by and large, very private. Many Winter communities ar
 
 ## Politics
 ### Monarchs
-- [[Entities/NPCs/Titans/Winter Court/Monarchs/Thaw\|Thaw]]
 - [[Entities/NPCs/Titans/Winter Court/Monarchs/Frost\|Frost]]
+- [[Entities/NPCs/Titans/Winter Court/Monarchs/Thaw\|Thaw]]
 
 { .block-language-dataview}
 ### Archfey
