@@ -59,7 +59,7 @@ Mud Ocarina
 | [[Character Logs/Mirri 1.24.24\|Mirri 1.24.24]]   | 1/24/24  | 15             |
 | [[Character Logs/Mirri 1.18.24\|Mirri 1.18.24]]   | 1/18/24  | 14             |
 | [[Character Logs/Mirri 1.11.24\|Mirri 1.11.24]]   | 1/11/24  | 12             |
-| [[Character Logs/Mirri 12.28.23\|Mirri 12.28.23]] | 12/28/23 | 0.5            |
 | [[Character Logs/Mirri 12.21.23\|Mirri 12.21.23]] | 12/21/23 | 0.5            |
+| [[Character Logs/Mirri 12.28.23\|Mirri 12.28.23]] | 12/28/23 | 0.5            |
 
 { .block-language-dataview}
