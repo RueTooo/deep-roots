@@ -20,9 +20,9 @@ Add more columns
 >  | Column Name                                                              |
 > | ------------------------------------------------------------------------ |
 > | **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**                 |
+> | **[[Entities/Player Characters/Corvaux\|Corvaux]]**                   |
 > | **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]** |
 > | **[[Entities/Player Characters/Mirri\|Mirri]]**                       |
-> | **[[Entities/Player Characters/Corvaux\|Corvaux]]**                   |
 > | **[[Entities/Player Characters/Runa\|Runa]]**                         |
 > 
 { .block-language-dataview}
@@ -51,8 +51,8 @@ Add more columns
 > 	- ![Runa1 card.png](/img/user/Images/Creatures/Runa1%20card.png)
 > - **[[Locations/Feywild/Winter/Winter\|Winter]]**
 > 	- ![Winter_map.jpg](/img/user/Images/Maps/Winter_map.jpg)
-> 	 - [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
-> - [[Locations/Feywild/Winter/Scarlet Maple\|Scarlet Maple]]
+> 	 - [[Locations/Feywild/Winter/Scarlet Maple\|Scarlet Maple]]
+> - [[Locations/Feywild/Winter/Mosskarm\|Mosskarm]]
 > 
 { .block-language-dataview}
 
