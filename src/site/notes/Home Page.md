@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">??, <a data-href="Session 16" href="Session 16" class="internal-link" target="_blank" rel="noopener">Session 16</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/We'll use the power of friendship to LOOT THAT BODY!.md" data-href="Quotes/We'll use the power of friendship to LOOT THAT BODY!.md" href="Quotes/We'll use the power of friendship to LOOT THAT BODY!.md" class="internal-link" target="_blank" rel="noopener">We'll use the power of friendship to LOOT THAT BODY!</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Mirri.md" data-href="Entities/Player Characters/Mirri.md" href="Entities/Player Characters/Mirri.md" class="internal-link" target="_blank" rel="noopener">Mirri</a>, <a data-href="Session 16" href="Session 16" class="internal-link" target="_blank" rel="noopener">Session 16</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/Let's go through the established literature before writing our own..md" data-href="Quotes/Let's go through the established literature before writing our own..md" href="Quotes/Let's go through the established literature before writing our own..md" class="internal-link" target="_blank" rel="noopener">Let's go through the established literature before writing our own.</a></p>
 </div></div></span></span>
 
 > [!kanban] Player Characters
@@ -26,15 +26,23 @@
 > - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]], [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
 > 	- <iframe src="https://ruetooo.github.io/leaflet-map-simple/sylvariMap" width=100% height="400"></iframe>
 
-> [!Question]
-> [[Rune Reading\|Click here to draw a random rune! (Insight sold separately)]]
+> [!infobox] 
+> # Atlas At Last
+> - [[Maps/Rakāuvi map\|Rakāuvi]]
+> 	- [[Maps/Sylvari map\|Sylvari]]
+> - [[Maps/Feywild map\|Feywild]]
+> 	- [[Maps/Winter map\|Winter]]
+> 
+
+> [!Question] Uncertain?
+> [[Rune Reading\|Click here]]  to draw a random rune! (Insight sold separately)
 
 > | **Lore** |
 > | ---- |
 >  - [[Lore/Grimkin's Guide to the Winter Court\|Grimkin's Guide to the Winter Court]]
 > - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
-> - [[Lore/Spellplague\|Spellplague]]
 > - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
+> - [[Lore/Spellplague\|Spellplague]]
 > 
 { .block-language-dataview}
 
