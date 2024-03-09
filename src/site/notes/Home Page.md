@@ -4,71 +4,37 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Mirri.md" data-href="Entities/Player Characters/Mirri.md" href="Entities/Player Characters/Mirri.md" class="internal-link" target="_blank" rel="noopener">Mirri</a>, <a data-href="Session 16" href="Session 16" class="internal-link" target="_blank" rel="noopener">Session 16</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/Let's go through the established literature before writing our own..md" data-href="Quotes/Let's go through the established literature before writing our own..md" href="Quotes/Let's go through the established literature before writing our own..md" class="internal-link" target="_blank" rel="noopener">Let's go through the established literature before writing our own.</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">undefined, <a data-href="Session undefined" href="Session undefined" class="internal-link" target="_blank" rel="noopener">Session undefined</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/Quotes List.md" data-href="Quotes/Quotes List.md" href="Quotes/Quotes List.md" class="internal-link" target="_blank" rel="noopener">Quotes List</a></p>
 </div></div></span></span>
 
 > [!kanban] Player Characters
->  - **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**
+> - **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**
 > 	- ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png)
 > - **[[Entities/Player Characters/Corvaux\|Corvaux]]**
 > 	- ![Corvaux1 card.png](/img/user/Images/Creatures/Corvaux1%20card.png)
 > - **[[Entities/Player Characters/Luck of the Draw\|Luck of the Draw]]**
 > 	- ![luck_of_the_draw.png](/img/user/Images/Creatures/luck_of_the_draw.png)
-> - **[[Entities/Player Characters/Mirri\|Entities/Player Characters/Mirri]]** 
+> - **[[Entities/Player Characters/Mirri\|Mirri]]** 
 > 	- ![Mirri card.png](/img/user/Images/Creatures/Mirri%20card.png) 
 > - **[[Entities/Player Characters/Runa\|Runa]]**
 > 	- ![Runa1 card.png](/img/user/Images/Creatures/Runa1%20card.png)
 
-> [!kanban]- Where in the Worlds 
-> - [[Locations/Feywild/Winter/Winter\|Winter]], [[Locations/Feywild/Feywild\|Feywild]] 
-> 	- <iframe src="https://ruetooo.github.io/leaflet-map-simple/winterMap" width=100% height="400"></iframe>
-> - [[Locations/Prime Material Plane, Rakauvi/Sylvari/Sylvari\|Sylvari]], [[Locations/Prime Material Plane, Rakauvi/Rakāuvi\|Rakāuvi]]
-> 	- <iframe src="https://ruetooo.github.io/leaflet-map-simple/sylvariMap" width=100% height="400"></iframe>
-
-> [!infobox] 
-> # Atlas At Last
+> [!kanban]+ Random Reference
+> # Lore
+>  - [[Lore/Grimkin's Guide to the Winter Court\|Grimkin's Guide to the Winter Court]]
+> - [[Lore/Legend of the Creation of the Lesser Draconic Races\|Legend of the Creation of the Lesser Draconic Races]]
+> 
+{ .block-language-dataview}
+> # Campaign Chronicles
+> - [[Campaign Chronicles/Session List\|Session List]]
+> - [[Quotes/Quotes List\|Quotes List]]
+> # Maps
 > - [[Maps/Rakāuvi map\|Rakāuvi]]
 > 	- [[Maps/Sylvari map\|Sylvari]]
 > - [[Maps/Feywild map\|Feywild]]
 > 	- [[Maps/Winter map\|Winter]]
-> 
+
 
 > [!Question] Uncertain?
 > [[Rune Reading\|Click here]]  to draw a random rune! (Insight sold separately)
-
-> | **Lore** |
-> | ---- |
->  - [[Lore/Grimkin's Guide to the Winter Court\|Grimkin's Guide to the Winter Court]]
-> - [[Lore/Legend of the creation of the lesser draconic races\|Legend of the creation of the lesser draconic races]]
-> - [[Lore/The Reshuffling of Hell\|The Reshuffling of Hell]]
-> - [[Lore/Spellplague\|Spellplague]]
-> 
-{ .block-language-dataview}
-
-> [!tldr|no-t]
->  | Session Number                                                     |
-> | ------------------------------------------------------------------ |
-> | [[Campaign Chronicles/List of Sessions/Session 1\|Session 1]]   |
-> | [[Campaign Chronicles/List of Sessions/Session 2\|Session 2]]   |
-> | [[Campaign Chronicles/List of Sessions/Session 3\|Session 3]]   |
-> | [[Campaign Chronicles/List of Sessions/Session 4\|Session 4]]   |
-> | [[Campaign Chronicles/List of Sessions/Session 5\|Session 5]]   |
-> | [[Campaign Chronicles/List of Sessions/Session 6\|Session 6]]   |
-> | [[Campaign Chronicles/List of Sessions/Session 7\|Session 7]]   |
-> | [[Campaign Chronicles/List of Sessions/Session 8\|Session 8]]   |
-> | [[Campaign Chronicles/List of Sessions/Session 9\|Session 9]]   |
-> | [[Campaign Chronicles/List of Sessions/Session 10\|Session 10]] |
-> | [[Campaign Chronicles/List of Sessions/Session 11\|Session 11]] |
-> | [[Campaign Chronicles/List of Sessions/Session 12\|Session 12]] |
-> | [[Campaign Chronicles/List of Sessions/Session 13\|Session 13]] |
-> | [[Campaign Chronicles/List of Sessions/Session 14\|Session 14]] |
-> | [[Campaign Chronicles/List of Sessions/Session 15\|Session 15]] |
-> | [[Campaign Chronicles/List of Sessions/Session 16\|Session 16]] |
-> | [[Campaign Chronicles/List of Sessions/Session 17\|Session 17]] |
-> | [[Campaign Chronicles/List of Sessions/Session 18\|Session 18]] |
-> | [[Campaign Chronicles/List of Sessions/Session 19\|Session 19]] |
-> | [[Campaign Chronicles/List of Sessions/Session 20\|Session 20]] |
-> 
-{ .block-language-dataview}
-
