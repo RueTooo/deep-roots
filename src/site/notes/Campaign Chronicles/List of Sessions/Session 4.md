@@ -3,8 +3,8 @@
 ---
 
 
-| Name                                                       | Type          |
-| ---------------------------------------------------------- | ------------- |
-| [[Character Logs/Aerendyl 10.31.23\|Aerendyl 10.31.23]] | Character log |
+| Name                                                       | Type                            |
+| ---------------------------------------------------------- | ------------------------------- |
+| [[Character Logs/Aerendyl 10.31.23\|Aerendyl 10.31.23]] | <ul><li>Character log</li></ul> |
 
 { .block-language-dataview}
