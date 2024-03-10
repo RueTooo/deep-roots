@@ -4,7 +4,7 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">undefined, <a data-href="Session 11" href="Session 11" class="internal-link" target="_blank" rel="noopener">Session 11</a></div></div><div class="callout-content">
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Corvaux.md" data-href="Entities/Player Characters/Corvaux.md" href="Entities/Player Characters/Corvaux.md" class="internal-link" target="_blank" rel="noopener">Corvaux</a>, <a data-href="Session 11" href="Session 11" class="internal-link" target="_blank" rel="noopener">Session 11</a></div></div><div class="callout-content">
 <p><a data-tooltip-position="top" aria-label="Quotes/You're a terrible mage, Thaddeus.md" data-href="Quotes/You're a terrible mage, Thaddeus.md" href="Quotes/You're a terrible mage, Thaddeus.md" class="internal-link" target="_blank" rel="noopener">You're a terrible mage, Thaddeus</a></p>
 </div></div></span></span>
 
