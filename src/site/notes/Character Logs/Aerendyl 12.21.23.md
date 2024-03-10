@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/character-logs/aerendyl-12-21-23/","tags":["Plot","Campaign"]}
+---
+
+
+
+*Session 10 Day 21 and 22 of Bloomwave, year 515 of the Third Age*
+
+After the skirmish, [[Animal Companions/Obsidian\|Sid]] returned, confirming the area was clear of lingering demons for now. Still on edge, [[Entities/Player Characters/Corvaux\|Corvaux]] approached the cleric, Beckett, about aiding in a cleansing ritual below. In exchange for coin (or draconic relics, as they later clarified), they offered two vials of sanctified water. I pondered trading a silver dagger I found on a solid decade ago back in [[Locations/Prime Material Plane, Rakauvi/Nordthorn/Nordthorn\|Nordthorn]], but as far as I could tell, it lacked the draconic touch these two were after. Instead, I relinquished the ironbark mask – decidedly more draconic-looking – and 30 gold pieces in exchange for two vials of holy water.
+
+Weary from battle, our band descended into the underground library to rest. [[Garth\|Garth]] soon got to work preparing a meal as we all claimed our spaces among the bookshelves and debris. [[Entities/Player Characters/Retired/Thaddeus Quill\|Thaddeus]] and [[Entities/NPCs/Dig Team/Eldanor Nightbloom\|Nightbloom]] were already there, with [[Entities/NPCs/Dig Team/Eldanor Nightbloom\|Nightbloom]] looking positively drained of all energy. Restraining that demon upstairs must have really sapped it all out of her. In an attempt to provide *some* semblance of comfort, offered her and the others some of the stalest tea known to man (listen: I didn't realise the leaves were stale ...).
+
+To my surprise, [[Entities/NPCs/Dig Team/Eldanor Nightbloom\|Nightbloom]] later presented [[Entities/Player Characters/Corvaux\|Corvaux]] with a feather-like dagger that seemed meaningful. My curiosity was peaked, but I didn't have the heart to butt in to ask about it. It seemed a rather significant moment between them. Perhaps I might ask a question or two about the significance of the weapon later ...
+
+When morning came, we were set to destroy the profane sigil painted onto the floor. [[Entities/Player Characters/Retired/Thaddeus Quill\|Thaddeus]] made the first move, verdant energy pouring from his hands as he petitioned otherworldly aid. [[Entities/Player Characters/Corvaux\|Corvaux]]’s attempt at singeing the sigil with a [[PHB fluff spells/Sacred Flame\|PHB fluff spells/Sacred Flame]] backfired, but my silver dagger – once I had a _late_ epiphany about silver's role as a countermeasure to fiendish influences – managed to shatter several focal points. Pockets of vile gas escaped through the fractures, negated by [[Entities/Player Characters/Retired/Thaddeus Quill\|Thaddeus]] wresting control of his channelling, whereafter [[Garth\|Garth]]’s strikes intimidated the last defences into submission – while I waved the dagger like I was possessed by some furious spirit, and [[Entities/Player Characters/Corvaux\|Corvaux]] tossed whatever the exact contents of her herb pouch were to bolster the efforts.
+
+The sigil yielded at last; we'd closed the door to the 108th layer of the abyss! And as far as fortuitous news goes: [[Entities/NPCs/Library of Unseen Horizons/Caspian\|Caspian]]’s token started vibrating not at all long after, signalling new revelations in the Archives regarding awaiting to be shared with us. More puzzles still lay ahead, but steadfast allies now stand my side. Let us see what the rest of this new day will bring.
