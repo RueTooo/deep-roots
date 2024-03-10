@@ -5,11 +5,14 @@
 > [!Infobox]
 > ![Winter_map.jpg](/img/user/Images/Maps/Winter_map.jpg)
 
-Winter is a sort of split world - half of the population lives within the mountains and below the frozen tundra, the other half thrive in the frosty air and icecaps. When the Chrysalis Queen and the Shadow King vanished at the beginning of the Third Age, the Court was thrown into chaos. In the midst of the upheaval, many strong clans and leaders took advantage, and used the rulers' absence as a chance to grab land from other seasons until the mysterious twins [[Entities/NPCs/Titans/Winter Court/Monarchs/Frost\|Frost]] and [[Entities/NPCs/Titans/Winter Court/Monarchs/Thaw\|Thaw]] rose as strong voices, and united the Season to lead them in defense of the realm. Much of Winter's strength lays within its deep connection to primal forces - both elemental and beastlike. 
+Winter is a sort of split world - half of the population lives within the mountains and below the frozen tundra, the other half thrive in the frosty air and icecaps. 
+###### When the Chrysalis Queen and the Shadow King vanished at the beginning of the Third Age, the Court was thrown into chaos. 
+In the midst of the upheaval, many strong clans and leaders took advantage, and used the rulers' absence as a chance to grab land from other seasons until the mysterious twins [[Entities/NPCs/Titans/Winter Court/Monarchs/Frost\|Frost]] and [[Entities/NPCs/Titans/Winter Court/Monarchs/Thaw\|Thaw]] rose as strong voices, and united the Season to lead them in defense of the realm. Much of Winter's strength lays within its deep connection to primal forces - both elemental and beastlike. 
 
 The people of Winter are by and large very private. Many Winter communities are hidden, with secret methods or whispered codes used to reveal the entrance. The people can be equally difficult to get to know, though once a bond of trust is formed, many in Winter will honor that bond until death. 
 
-The quickest way to die in Winter is to disrespect the cold. Even the frozen peaks of [[Locations/Prime Material Plane, Rakauvi/Nordthorn/Nordthorn\|Nordthorn]] cannot compare to the wind and snow of Winter. But there is a unique beauty here as well - lights of the Auroras illuminate the sky, bringing celestial spirits down to the surface. 
+###### The quickest way to die in Winter is to disrespect the cold. 
+Even the frozen peaks of [[Locations/Prime Material Plane, Rakauvi/Nordthorn/Nordthorn\|Nordthorn]] cannot compare to the wind and snow of Winter. But there is a unique beauty here as well - lights of the Auroras illuminate the sky, bringing celestial spirits down to the surface. 
 
 Winter is made up of dwarves, elves (especially Winter Eladrin, Moon Elves and Shadar Kai), genasi of all kinds, goblinkind, goliath, harengon, kenku, leonid, tabaxi, and shifters of every kind.
 
