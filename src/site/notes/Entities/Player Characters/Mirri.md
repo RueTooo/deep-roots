@@ -50,16 +50,7 @@ Kill [[Entities/NPCs/Vestan Tlanbourn\|Vestan Tlanbourn]]
 ## Inventory
 Mud Ocarina
 
-| Record                                               | Date     | Session Number |
-| ---------------------------------------------------- | -------- | -------------- |
-| [[Character Logs/Mirri 2.29.24\|Mirri 2.29.24]]   | 2/29/24  | 20             |
-| [[Character Logs/Mirri 2.14.24\|Mirri 2.14.24]]   | 2/14/24  | 18             |
-| [[Character Logs/Mirri 2.8.24\|Mirri 2.8.24]]     | 2/8/24   | 17             |
-| [[Character Logs/Mirri 2.1.24\|Mirri 2.1.24]]     | 2/1/24   | 16             |
-| [[Character Logs/Mirri 1.24.24\|Mirri 1.24.24]]   | 1/24/24  | 15             |
-| [[Character Logs/Mirri 1.18.24\|Mirri 1.18.24]]   | 1/18/24  | 14             |
-| [[Character Logs/Mirri 1.11.24\|Mirri 1.11.24]]   | 1/11/24  | 12             |
-| [[Character Logs/Mirri 12.21.23\|Mirri 12.21.23]] | 12/21/23 | 0.5            |
-| [[Character Logs/Mirri 12.28.23\|Mirri 12.28.23]] | 12/28/23 | 0.5            |
+| Record | Date | Session Number |
+| ------ | ---- | -------------- |
 
 { .block-language-dataview}
