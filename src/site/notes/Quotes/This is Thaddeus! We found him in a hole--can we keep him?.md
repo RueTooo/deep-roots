@@ -4,7 +4,7 @@
 
 
 
-> [!quote|mark] ??, session 14
+> [!quote|mark] `=this.Speaker`, session 14
 > This is Thaddeus! We found him in a hole--can we keep him?
 
 
