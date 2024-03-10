@@ -4,8 +4,8 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">undefined, <a data-href="Session undefined" href="Session undefined" class="internal-link" target="_blank" rel="noopener">Session undefined</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/Quotes List.md" data-href="Quotes/Quotes List.md" href="Quotes/Quotes List.md" class="internal-link" target="_blank" rel="noopener">Quotes List</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">undefined, <a data-href="Session 11" href="Session 11" class="internal-link" target="_blank" rel="noopener">Session 11</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/You're a terrible mage, Thaddeus.md" data-href="Quotes/You're a terrible mage, Thaddeus.md" href="Quotes/You're a terrible mage, Thaddeus.md" class="internal-link" target="_blank" rel="noopener">You're a terrible mage, Thaddeus</a></p>
 </div></div></span></span>
 
 > [!kanban] Player Characters
@@ -20,21 +20,25 @@
 > - **[[Entities/Player Characters/Runa\|Runa]]**
 > 	- ![Runa1 card.png](/img/user/Images/Creatures/Runa1%20card.png)
 
-> [!kanban]+ Random Reference
+> [!kanban|no-t] Random Reference
 > # Lore
 >  - [[Lore/Grimkin's Guide to the Winter Court\|Grimkin's Guide to the Winter Court]]
 > - [[Lore/Legend of the Creation of the Lesser Draconic Races\|Legend of the Creation of the Lesser Draconic Races]]
 > 
 { .block-language-dataview}
+>
 > # Campaign Chronicles
-> - [[Campaign Chronicles/Session List\|Session List]]
-> - [[Quotes/Quotes List\|Quotes List]]
+>  - [[Campaign Chronicles/Session List\|Session List]]
+> - [[Campaign Chronicles/Rediscovered Temple of Five\|Rediscovered Temple of Five]]
+> 
+{ .block-language-dataview}
 > # Maps
-> - [[Maps/Rakāuvi map\|Rakāuvi]]
-> 	- [[Maps/Sylvari map\|Sylvari]]
-> - [[Maps/Feywild map\|Feywild]]
-> 	- [[Maps/Winter map\|Winter]]
+> - ## [[Maps/Rakāuvi map\|Rakāuvi]]
+> 	- ### [[Maps/Sylvari map\|Sylvari]]
+> - ## [[Maps/Feywild map\|Feywild]]
+> 	- ### [[Maps/Winter map\|Winter]]
 
 
-> [!Question] Uncertain?
-> [[Rune Reading\|Click here]]  to draw a random rune! (Insight sold separately)
+> [!Question] Not sure where to start?
+> [[Rune Reading\|Click here]]  to draw a **random rune**! 
+> *(Insight sold separately.)*
