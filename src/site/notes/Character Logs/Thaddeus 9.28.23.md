@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/character-logs/thaddeus-9-28-23/","tags":["Plot","Campaign"]}
+---
+
+
+
+*Personal Diary, Entry 33, 12th of Dewfall, Year 515*
+
+I would love to rush to the end of todays events, I knew this would be one of those days that had multiple entries but truly I could never had predicted what was in store for me this day. However if I did that then this would not be a comprehensive entry. In my last entry I ended it off noting that we were still in the temple, Lady Liatris and I agreed to rest in different portions of the Halls of Ancestry. I rested in the half burned library while Lady Liatris chose to remain within the temple. I had to resummon Sid and hopefully regain the energy needed to confront what may still threaten this archive of knowledge and culture.
+
+My rest went uninterrupted however, unlike Lady Liatris who informed me of voices and noises they heard in that hour. Thankfully they stayed out of sight, I shudder to imagine the guilt I would feel had something happened to them when I insisted on resting in different areas. With both of us rested however and ready to investigate we climbed the stairs that were just past where that strange creature pried a topaz from the wall.
+
+A crossbow bolt almost immediately found itself sticking out from Lady Liatris's abdomen as the two of us were discussing whether or not to move stealthily. I had moved in to help Lady Liatris, whiffing a blast of eldtrich energy from the ring, my spell focus, on my right hand. Lucky for us both it seemed Lady Liatris did not need my assistance, quickly dispatching of the thief in a similar manner to the last one she killed. Which once again I'd like to repeat, if this weren't clearly a matter of life or death at this point I would be strictly against the use of violence. But people ready to shoot you in the stomach when you turn a corner don't tend to make good conversation.
+
+However since it appeared Lady Liatris had the situation well in hand, I got curious about a couple features of this room. The first thing that caught my eye being a large blue crystal, even without magical aid I was able to see this bright blue crystal was emanating abjuration and conjuration. Nearby was a statue, draconic writing describing it as Pyra the Savage mage. It depicted a draconic humanoid staring directly at the crystal and with one hand outstretched. The writing around the statue made it clear that Pyra, or perhaps the crystal, required an offering of some kind. 
+
+My second instinct was that the thieves were going to take this crystal, or worse activating this crystal somehow worked in the thieves favor and they were prying gems from the walls to give to the statue. Unfortunately my first instinct was figuring out how to make this crystal work. The only thing of worth on my person was that topaz, and it belonged to the Halls of Ancestry in the first place so I figured perhaps this would be a fine way to return it.
+
+It certainly worked, but I have to be honest what to do next had me completely stumped. The topaz vanished as soon as I offered it to the statues open palm, and behind me forming inside of the crystal was a little illusionary faerie dragon. It was curious on its surroundings, me, and Sid who was curled up inside of my hood. I tried a few things, detect magic, asking the dragon directly, though I avoided commands such as directly telling them to take care of the thieves. My assumption was that I had activated some manner of defensive magic that was here to aid in protecting the Halls of Ancestry but I had no idea how to move forward.
+
+The detect magic did reveal the little dragon could breathe out healing magic, and that the statue of Pyra shined with every type of magic imaginable. But before I could come up with anything else to try Lady Liatris spoke to the dragon in Draconic. I don't know what they discussed but when it was over the little dragon dove into the crystal and seemed to disappear. Lady Liatris informed me they were going to wake up "The Old One." and when the walls began to move and shake I had a theory on what exactly that meant, and decided I shouldn't wait to double check. 
+
+Lady Liatris pointed out there were books in this room that could be some interest to me, I scooped up everything I could then booked it for the exit. Walls, doors, tunnels were all collapsing and something all around me shifted its weight. I barely noticed that Lady Liatris wasn't behind be as I escaped from the cavern entrance. The sight that I beheld after that is beyond words.
+
+The ground heaved and split apart before me, then from the depths of the earth, a colossal form began to emerge, pushing aside tons of rock and soil as if they were mere grains of sand. It was a dragon, larger than I could ever imagine with cobalt scales to match the stone it was casting aside as it crawled from the earth and spread its colossal wings. It did not regard me in the slightest, after all to a creature of that size I was but an ant hidden behind blades of grass. Two shapes were clutched in it's claws, a massive almost L-shaped mass of rock with some wood paneling sticking out that I recognized as the library I was resting in. The other shape was not familiar, I can only assume a portion of the Halls of Ancestry I had not seen.
+
+That was not the end of the day, I sent Sid into what remained of the Halls of Ancestry to find Lady Liatris and explore further. I found a room of pillars with two dragon skulls facing a flame. But the sight of that dragon "The Old one." shadows over anything else I could have discovered here.
+
+![The_Old_One.png](/img/user/Images/Creatures/The_Old_One.png)
