@@ -8,5 +8,5 @@
 > You don't look fine
 
 
-> [!quote|mark] [[Entities/Player Characters/Corvaux\|Corvaux]], session 14
+> [!quote|mark] `=this.Speaker2`, session 14
 > Then stop looking!
