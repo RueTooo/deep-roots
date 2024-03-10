@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/character-logs/luck-of-the-draw-2-10-24/","tags":["Plot","Campaign"]}
+---
+
+
+
+Feywild journal
+*Property of Luck*
+Day: No clue, I lost count and that mountain might've been a time loop.
+
+*# FREEDOM!*
+
+I have no clue how long I have been wandering the same gods forsaken parts of this forest and mountain. When I first appeared in Winter there was sun, and I tried to go through the [[Krumholtz Mountains\|Krumholtz Mountains]] in what felt like a couple months after that. Stopped counting a long time ago, but the sun isn't here anymore just the moon. I ran into a pair of fey, and I tried to pull my usual routine on them when they asked for a gift. I found a small painting of an elf, and it was the closest thing in my pack I *thought* worked as a gift. I don't even remember what I said, something about it belonging to a lord. The pixies said I could pass, but the pixies lied!! I was grabbed maybe a few hours later, left hanging upside down in a rope trap. They told me it was "too boring" and something about teeth??? I tried telling them I had a better gift but they would not hear my pleas and left me there. 
+
+Theres no other word for my experience except torture, I would be left in some manner of trap for sometimes days at a time. I had enough survival experience to find my own food and water, but when the trap would release almost all of the food or water would be sabotaged. Pebbles in all the mushrooms, every animal scared off, I would try and boil drinking water from the snow but if I ever looked away for even a moment it would be knocked over or have salt poured in. I've learned how to not blink for at least 10 minute intervals while the water boils despite the harsh and cold winds just so I could consistently get safe drinking water. When I would rest, the best I could expect is to wake with pine needles in my ears and nose, sometimes poison ivy or similar. Don't even get me started on the singing, even now I swear I can still hear it. After a while of this, or if I got too comfortable, I was put back into another trap so the cycle could start all over again.
+
+But finally after only gods know how long, some travelers seeking to journey past [[Krumholtz Mountains\|Krumholtz Mountains]] appeared. I wasn't really paying attention at first, normally I am very perceptive but however long I have been in this cycle I've never spotted a single animal or other living thing besides those pixies and the plant life. I got used to not really needing to keep an ear out. When they got very close, and I finally noticed the sound of crunching snow barely a few feet from me, I jumped a little bit. I surely looked and sounded crazy, I might be just a little crazy. I mean what other kind of person has to keep an eye on their shadow?
+
+At first I thought them some new trick, something to spice up the entertainment I was bringing the pixies. Or maybe the pixies were still angry with the threats I made and brought people to hurt me, the largest of the group certainly looked like they could. Never again am I threatening a fey I can't beat. But no, just travelers like I was who must now bring a gift so they can pass. Some fine gifts, stories, performances, these pixies had a particular interest in either teeth or disturbing events.
+
+Had I known ages ago that is what made for a good gift to these pixies, I would've never been trapped on this mountain. Early into my banishment to Winter but after the moon replaced the sun I fought off an ogre and pulled its tooth out. I couldn't really say why I chose to do it, but I carved the word "moon" into the tooth. But, I do want to remember my hardships. In no shape or form does this punishment fit the crime and unless the coward died first, [[Ambassador Ushan\|Ambassador Ushan]] hasn't seen the last of me. I gifted the tooth to the pixies, the quiet one was very quick to snatch it from me. Then, finally, I was free to leave this mountain. 
+
+I chose to follow those Travelers as they marched onward, they're headed to one of the other courts, following a vision in their minds of [[Golden Oak\|Golden Oak]]. While I have never left Winter, I figured I could surely at least aid them in the journey, after all I didn't learn nothing from my time in Winter. They accepted, thank the gods. We're resting in a cave now having just gotten a glimpse of the sun. I think I will stick with these people, at the very least until we've left the feywilds. I wonder how much time has actually passed? I wonder if I actually remember when in the hells I even got banished.
