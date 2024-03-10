@@ -4,7 +4,7 @@
 
 
 
-> [!quote|mark] [[Entities/Player Characters/Corvaux\|Corvaux]], session 0.5
+> [!quote|mark] `=this.Speaker`, session 0.5
 > The only thing that's a threat is that thing in the sky (the sun).
 
 
