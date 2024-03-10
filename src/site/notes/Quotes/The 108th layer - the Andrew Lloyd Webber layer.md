@@ -4,7 +4,7 @@
 
 
 
-> [!quote|mark] Sam, session 11
+> [!quote|mark] `=this.Speaker`, session 11
 > The 108th layer - the Andrew Lloyd Webber layer
 
 
