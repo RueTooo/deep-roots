@@ -4,7 +4,7 @@
 
 
 
-> [!quote|mark] `=this.Speaker`, session 11
+> [!quote|mark] [[Entities/Player Characters/Corvaux\|Corvaux]], session 11
 > You're a terrible mage, Thaddeus
 
 
