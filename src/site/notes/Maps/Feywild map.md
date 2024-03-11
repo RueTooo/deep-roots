@@ -3,4 +3,4 @@
 ---
 
 
-<iframe src="https://ruetooo.github.io/leaflet-map-simple/feywildMap" width=80% height="400"></iframe>
+<iframe src="https://ruetooo.github.io/feywildMap.html" width=80% height="400"></iframe>
