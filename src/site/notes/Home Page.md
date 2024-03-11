@@ -4,11 +4,11 @@
 
 ![banner.png|banner-tall](/img/user/Images/banner.png)
 
-<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Entities/Player Characters/Corvaux.md" data-href="Entities/Player Characters/Corvaux.md" href="Entities/Player Characters/Corvaux.md" class="internal-link" target="_blank" rel="noopener">Corvaux</a>, <a data-href="Session 11" href="Session 11" class="internal-link" target="_blank" rel="noopener">Session 11</a></div></div><div class="callout-content">
-<p><a data-tooltip-position="top" aria-label="Quotes/You're a terrible mage, Thaddeus.md" data-href="Quotes/You're a terrible mage, Thaddeus.md" href="Quotes/You're a terrible mage, Thaddeus.md" class="internal-link" target="_blank" rel="noopener">You're a terrible mage, Thaddeus</a></p>
+<span><span><div data-callout-metadata="mark" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">??, <a data-href="Session 20" href="Session 20" class="internal-link" target="_blank" rel="noopener">Session 20</a></div></div><div class="callout-content">
+<p><a data-tooltip-position="top" aria-label="Quotes/Corvaux's definitely looking..md" data-href="Quotes/Corvaux's definitely looking..md" href="Quotes/Corvaux's definitely looking..md" class="internal-link" target="_blank" rel="noopener">Corvaux's definitely looking.</a></p>
 </div></div></span></span>
 
-> [!kanban] Player Characters
+> [!kanban|no-t] Player Characters
 > - **[[Entities/Player Characters/Aerendyl\|Aerendyl]]**
 > 	- ![Aerendyl_.png](/img/user/Images/Creatures/Aerendyl_.png)
 > - **[[Entities/Player Characters/Corvaux\|Corvaux]]**
@@ -22,14 +22,14 @@
 
 > [!kanban|no-t] Random Reference
 > # Lore
->  - [[Lore/Grimkin's Guide to the Winter Court\|Grimkin's Guide to the Winter Court]]
-> - [[Lore/Legend of the Creation of the Lesser Draconic Races\|Legend of the Creation of the Lesser Draconic Races]]
+>  - [[Lore/Legend of the Creation of the Lesser Draconic Races\|Legend of the Creation of the Lesser Draconic Races]]
+> - [[Lore/Grimkin's Guide to the Winter Court\|Grimkin's Guide to the Winter Court]]
 > 
 { .block-language-dataview}
 >
 > # Campaign Chronicles
->  - [[Campaign Chronicles/Session List\|Session List]]
-> - [[Campaign Chronicles/Rediscovered Temple of Five\|Rediscovered Temple of Five]]
+>  - [[Campaign Chronicles/Rediscovered Temple of Five\|Rediscovered Temple of Five]]
+> - [[Campaign Chronicles/Session List\|Session List]]
 > 
 { .block-language-dataview}
 > # Maps
