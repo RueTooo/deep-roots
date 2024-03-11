@@ -13,7 +13,7 @@
 > 
 > Creature type |
 > ---|
-> [[Creatures/tressym\|tressym]]
+> [[Entities/Creatures/tressym\|tressym]]
 > 
 > Affiliation |
 > ---|
