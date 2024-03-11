@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign-chronicles/list-of-sessions/session-5/","tags":["Event"]}
+{"dg-publish":true,"permalink":"/campaign-chronicles/list-of-sessions/session-5/","hideInGraph":true,"tags":["Event"]}
 ---
 
 
