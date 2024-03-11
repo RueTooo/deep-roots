@@ -3,4 +3,4 @@
 ---
 
 
-<iframe src="https://ruetooo.github.io/leaflet-map-simple/winterMap" width=80% height="400"></iframe>
+<iframe src="https://ruetooo.github.io/winterMap.html" width=80% height="400"></iframe>
